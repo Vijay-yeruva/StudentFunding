@@ -181,6 +181,7 @@ address>a:hover {
     position: fixed;
     width: 100%;
     z-index: 2;
+    border-bottom: 2px solid #602481;
 }
 
 .navigation-items {
@@ -201,6 +202,17 @@ address>a:hover {
 .ualbany-logo {
     margin-left: 20px;
     vertical-align: middle;
+}
+
+.major-award-image-col{
+    background-color: #ffffff;
+    border-width:2px;
+    border-color:#000000;
+}
+
+.images-table{
+    border-collapse: separate;
+    border-color:#000000;
 }
 
 @media only screen and (max-width: 600px) {
