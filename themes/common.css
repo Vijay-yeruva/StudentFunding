@@ -155,7 +155,33 @@ address>a:hover {
 
 .page-banner-image-wrapper {
     position: relative;
+    width: 100%;
     top: 90px;
+}
+
+#SLIDE_SHOW {
+    width: 100%x;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    backface-visibility: hidden;
+    animation-name: mainbkg;
+    animation-timing-function: ease-in-out;
+    background-image: url(../assets/images/Navigator1.png);
+    animation-delay: 1ms;
+}
+
+@keyframes mainbkg{
+   0%{
+       background-image: url(../assets/images/Navigator1.png);
+   }
+   50%{
+    background-image: url(../assets/images/Navigator2.png);
+   }
+   100%{
+    background-image: url(../assets/images/Navigator3.png);
+   }
 }
 
 .landing-page-image {
@@ -258,12 +284,6 @@ address>a:hover {
     border-color:#000000;
 }
 
-.page-banner-image{
-    position: relative;
-    top: 90px;
-    background: url('../assets/images/bkg-gray-pattern-banner1.png');
-}
-
 .home-banner-text-block {
     box-sizing: content-box;
     position: absolute;
@@ -274,7 +294,7 @@ address>a:hover {
     padding-right: 20px;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     background-color:rgba(0, 0, 0, 0.5);
-    max-width: 50%;
+    max-width: 30%;
   }
 
   .home-banner-text-block > h1 {
