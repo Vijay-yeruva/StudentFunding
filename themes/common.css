@@ -161,14 +161,14 @@ address>a:hover {
 
 #SLIDE_SHOW {
     width: 100%x;
-    height: 500px;
+    height: 400px;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     backface-visibility: hidden;
     animation-name: mainbkg;
     animation-timing-function: ease-in-out;
-    background-image: url(../assets/images/Navigator1.png);
+    background-image: url(../assets/images/Navigator11.png);
     animation-delay: 1ms;
 }
 
@@ -285,20 +285,28 @@ address>a:hover {
     border-color:#000000;
 }
 
+.home-banner-left-block{
+    box-sizing: content-box;
+    position: absolute;
+    bottom: 7%;
+    left:2%;
+    color:  #edba32;;
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    background-color:rgba(0, 0, 0, 0.5);
+    width: 33%;
+}
+
 .home-banner-text-block {
     box-sizing: content-box;
     position: absolute;
-    bottom: 10%;
-    left:3%;
-    color:  #edba32;;
-    padding-left: 20px;
-    padding-right: 20px;
+    bottom: 7%;
+    left:1%;
+    color:  #edba32;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    background-color:rgba(0, 0, 0, 0.5);
-    max-width: 30%;
+    max-width: 60%;
   }
 
-  .home-banner-text-block > h1 {
+  .home-banner-text-block > h2 {
     padding-top: 10px;
     padding-left: 10px;
     text-shadow: 3px 1px 2px black;
@@ -310,39 +318,82 @@ address>a:hover {
     text-shadow: 3px 1px 2px black;
   }
 
-.banner-text-block {
-    box-sizing: content-box;
-    position: absolute;
-    bottom: 30%;
-    left:3%;
-    color:  #edba32;;
-    padding-left: 20px;
-    padding-right: 20px;
-    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    max-width: 100%;
+  .home-banner-image-block {
+    float: right;
+    width: 65%;
+    height: 100%;
   }
 
-  .banner-text-block > h1 {
+  .home-banner-image-block > img{
+    float: right;
+    padding: 0px,0px,0px,0px;
+    width: inherit;
+    height: inherit;
+  }
+
+.banner-president-title-block {
+    box-sizing: content-box;
+    position: absolute;
+    bottom: 3%;
+    left:40%;
+    color:  #edba32;;
+    background-color:rgba(0, 0, 0, 0.5);
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    max-width: 30%;
+  }
+
+  .banner-president-title-block > h5 {
     padding-top: 10px;
     padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 0px;
+    text-shadow: 3px 1px 2px black;
   }
 
-  .banner-text-block > p {
+  .banner-president-title-block > p {
     padding-left: 10px;
-    color:  #46166b;
+    color: white;
+    margin-bottom: 5px;
+    text-shadow: 3px 1px 2px black;
   }
 
-  .banner-image-block {
+.banner-vp-title-block {
     box-sizing: content-box;
     position: absolute;
-    bottom: 10%;
-    right:3%;
+    bottom: 3%;
+    left:70%;
     color:  #edba32;;
-    padding: 20px;
-    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     background-color:rgba(0, 0, 0, 0.5);
-    max-width: 50%;
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    max-width: 30%;
   }
+
+  .banner-vp-title-block > h5 {
+    padding-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 0px;
+    text-shadow: 3px 1px 2px black;
+  }
+
+  .banner-vp-title-block > p {
+    padding-left: 10px;
+    color: white;
+    margin-bottom: 5px;
+    text-shadow: 3px 1px 2px black;
+  }
+
+.spanblue{
+    color: #3a0074;
+}
+
+.spanblueunderline{
+    color: #3a0074;
+    text-decoration: underline;
+}
+
+.spanbold{
+    font-weight: bold;
+}
 
 @media only screen and (max-width: 600px) {
     .main-content {
