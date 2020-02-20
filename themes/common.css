@@ -382,6 +382,40 @@ address>a:hover {
     text-shadow: 3px 1px 2px black;
   }
 
+.ellipse-menu{
+    position:relative;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    overflow: visible;
+}
+
+.ellipse-menu-button{
+    background-image: linear-gradient( #1a042c, #7717c0);
+    border-style: initial;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    display: inline-block;
+    border-radius: 8px;
+    padding: 5px 5px 5px 5px;
+    width: 200px;
+    height: 50px;
+    text-shadow: 3px 1px 2px black;
+    line-height: 18px;
+}
+
+.svg-ellipse{
+    overflow: visible;
+}
+
+.ellispe-style{
+    fill:transparent;
+    stroke:#000000;
+    stroke-width:5;
+}
+
 .spanblue{
     color: #3a0074;
 }
