@@ -406,6 +406,15 @@ address>a:hover {
     line-height: 18px;
 }
 
+.ellipse-menu-button > a {
+    color: white;
+}
+
+.ellipse-menu-button > a:hover {
+    color: #e4e4e4;
+    text-decoration: underline;
+}
+
 .svg-ellipse{
     overflow: visible;
 }
@@ -414,6 +423,15 @@ address>a:hover {
     fill:transparent;
     stroke:#000000;
     stroke-width:5;
+}
+
+.road-map-menu{
+    position:relative;
+    top:-115px;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    overflow: visible;
 }
 
 .spanblue{
