@@ -13,7 +13,7 @@ Primary use:    Common.css file used for styling header, footer and
     + Landing-Page-Wrapper / .landing-page-image-wrapper
         -Landing-Page-Image / .landing-page-image
     + Content / .content-wrapper
-        - Buffer Space/ .buffer
+        - Buffer Space/ .buffer 
         - Side Navigation bar / #navigation-bar
         - Main Content/ .main-content
     + Footer / #footer
@@ -224,14 +224,12 @@ address>a:hover {
     background-color: #46166b;
     color: white;
     padding-left: 10px;
-    transition: 0.5s;
 }
 
 .navigation-item:hover > a {
     background-color: #46166b;
     color: white;
     text-decoration: underline;
-    transition: 0.5s;
   }
 
 .navigation-sub-item {
@@ -247,7 +245,7 @@ address>a:hover {
 .navigation-sub-item:hover {
     background-color: #46166b;
     color: white;
-    padding-left: 30px;
+    padding-left: 10px;
 }
 
 .navigation-sub-item:hover > a {
@@ -258,7 +256,7 @@ address>a:hover {
 
 .navigation-sub-item-default {
     border-bottom: 2px solid #909090;
-    background-color: #45166a;
+    background-color: #46166b;
     color: white;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     font-size: 20px;
@@ -266,7 +264,7 @@ address>a:hover {
     list-style-type: none;
     padding: 10px 0px 10px 20px;
 }
-
+  
 .navigation-sub-item-default > a{
     background-color: #46166b;
     color: white;
@@ -277,13 +275,12 @@ address>a:hover {
     background-color: #46166b;
     color: white;
     text-decoration: underline;
-    padding-left: 5px;
   }
   /* The dropdown container */
 .dropdown {
     overflow: visible;
   }
-
+  
   /* Dropdown button */
   .dropdown .dropbtn {
     font-size: 16px;
@@ -310,7 +307,7 @@ address>a:hover {
 .dropdown:hover .dropdown-content {
     display: block;
   }
-
+  
 .ualbany-logo-wrapper {
     height: 90px;
     width: 100%;
@@ -454,65 +451,12 @@ address>a:hover {
     text-align: center;
 }
 
-.dot-list{
-    list-style: disc;
-    padding: 0 0 0 50px;
-    list-style-position: inside;
-}
-
 .check-list{
-    list-style:none;
-    padding: 0 0 0 50px;
-    list-style-position: inside;
+    list-style: none;
 }
 
-.check-list li{
-    padding: 10px 0 0 0
-}
-.check-list li:before {
-    content: "✓  ";
-  }
-
- .tab{
-    overflow: hidden;
-    padding: 0 0 0 50px;
-  }
-
-  .tab>a{
-    background: #45166a;
-    float: left;
-    cursor: pointer;
-    transition: 0.3s;
-    font-size: 100%;
-    margin: 0 5px 0 0;
-    border-radius: 8px 8px 0 0;
-    width: 150px;
-    height:20%;
-    color:rgb(221, 191, 23);
-    text-align: center;
-    padding: 5px 5px 5px 5px;
-    border: 1px solid #45166a;
-    border-bottom: none;
-    font-weight: bold;
-  }
-
-  .tab > a:hover{
-    background: #8345b3;
-    color:rgb(221, 191, 23);
-    text-decoration: none;
-  }
-
-  #selected {
-    background:#ab56ec;
-    color: #e4e4e4;
-    font-weight: bold;
-  }
-
-  .tabcontent{
-      padding: 20px 0 0 0;
-      height:80%;
-      border: 1px solid #45166a; 
-      box-sizing: content-box;
+.check-list > li:before {
+    content: '✓';
   }
 
 .ellipse-menu-button{
