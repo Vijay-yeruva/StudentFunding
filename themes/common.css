@@ -503,8 +503,8 @@ address>a:hover {
     text-decoration: none;
   }
 
-  #selected {
-    background:#ab56ec;
+  #tab-selected {
+    background: #8345b3;
     color: #e4e4e4;
     font-weight: bold;
   }
