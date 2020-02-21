@@ -159,7 +159,7 @@ address>a:hover {
     top: 90px;
 }
 
-#SLIDE_SHOW {
+#slide_show {
     width: 100%x;
     height: 400px;
     background-position: center;
@@ -559,7 +559,6 @@ address>a:hover {
 
 .road-map-menu{
     position:relative;
-    top:-115px;
     margin: auto;
     width: 600px;
     height: 300px;
