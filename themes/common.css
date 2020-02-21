@@ -474,6 +474,8 @@ address>a:hover {
  .tab{
     overflow: hidden;
     padding: 0 0 0 50px;
+    width: 100%;
+    border-bottom: 1px solid #45166a; ;
   }
 
   .tab>a{
@@ -511,6 +513,11 @@ address>a:hover {
       height:80%;
       border: 1px solid #45166a; 
       box-sizing: content-box;
+      border-image:linear-gradient(
+      to bottom, 
+      #45166a, 
+      rgba(0, 0, 0, 0)
+    ) 1 100%;
   }
 
 .ellipse-menu-button{
