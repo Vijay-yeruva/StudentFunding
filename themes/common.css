@@ -224,14 +224,12 @@ address>a:hover {
     background-color: #46166b;
     color: white;
     padding-left: 10px;
-    transition: 0.5s;
 }
 
 .navigation-item:hover > a {
     background-color: #46166b;
     color: white;
     text-decoration: underline;
-    transition: 0.5s;
   }
 
 .navigation-sub-item {
