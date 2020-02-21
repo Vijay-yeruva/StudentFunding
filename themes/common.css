@@ -475,7 +475,8 @@ address>a:hover {
     overflow: hidden;
     padding: 0 0 0 50px;
     width: 100%;
-    border-bottom: 1px solid #45166a; ;
+    border-bottom: 1px solid #45166a; 
+    text-shadow: 1px 1px 1px black;
   }
 
   .tab>a{
