@@ -443,6 +443,7 @@ address>a:hover {
     color:  #edba32;;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     background-color:transparent;
+    width: 50%;
 }
 
 .home-banner-top-right-block > h1{
