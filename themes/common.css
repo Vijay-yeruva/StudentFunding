@@ -159,31 +159,6 @@ address>a:hover {
     top: 90px;
 }
 
-#slide_show {
-    width: 100%x;
-    height: 400px;
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    backface-visibility: hidden;
-    animation-name: mainbkg;
-    animation-timing-function: ease-in-out;
-    background-image: url(../assets/images/Navigator11.png);
-    animation-delay: 1ms;
-}
-
-@keyframes mainbkg{
-   0%{
-       background-image: url(../assets/images/Navigator1.png);
-   }
-   50%{
-    background-image: url(../assets/images/Navigator2.png);
-   }
-   100%{
-    background-image: url(../assets/images/Navigator3.png);
-   }
-}
-
 .landing-page-image {
     width: 100%;
 }
@@ -558,10 +533,45 @@ address>a:hover {
 
 .road-map-menu{
     position:relative;
+    width: 100%;
     margin: auto;
-    width: 600px;
+    overflow-y: visible;
     height: 300px;
-    overflow: visible;
+}
+
+.road-map-menu > img{
+    position: relative; 
+    top:-100px;
+    height: 575px;
+    width: 100%;
+}
+
+.road-map-menu-button{
+    background-color: #45166a;
+    color: white;
+    text-align: center;
+    font-size: medium;
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    display: inline-block;
+    border-radius: 8px;
+    padding: 5px 5px 5px 5px;
+    width: 150px;
+    height: 50px;
+    text-shadow: 3px 1px 2px black;
+    line-height: 18px;
+}
+
+.road-map-menu-button:hover{
+    background-color: #8345b3;
+}
+.road-map-menu-button > a {
+    color:#edba32;
+}
+
+.road-map-menu-button:hover > a {
+    color: white;
+    text-decoration: none;
+    text-shadow: none;
 }
 
 .spanblue{
