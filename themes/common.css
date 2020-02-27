@@ -593,6 +593,11 @@ address>a:hover {
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
+.card>a>img{
+    width: 100%;
+    padding: 20px;
+}
+
 @media only screen and (max-width: 600px) {
     .main-content {
         padding-top: 20px;
