@@ -578,8 +578,7 @@ address>a:hover {
     color: #3a0074;
 }
 
-.spanblueunderline{
-    color: #3a0074;
+.spanunderline{
     text-decoration: underline;
 }
 
