@@ -401,14 +401,6 @@ address>a:hover {
     text-shadow: 3px 1px 2px black;
   }
 
-.ellipse-menu{
-    position:relative;
-    margin: auto;
-    width: 600px;
-    height: 300px;
-    overflow: visible;
-}
-
 .home-banner-top-right-block{
     box-sizing: content-box;
     position: absolute;
@@ -439,12 +431,23 @@ address>a:hover {
     list-style-position: inside;
 }
 
-.check-list li{
-    padding: 10px 0 0 0
+.check-list>li{
+    padding: 10px 0 0 20px
 }
-.check-list li:before {
+
+.check-list>li:before {
     content: "✓  ";
-  }
+    font-weight: bold;
+}
+
+.num-list{
+    list-style: decimal;
+    padding: 0 0 0 90px;
+}
+
+.num-list>li{
+    padding: 0px 0 0 20px
+}
 
  .tab{
     overflow: hidden;
@@ -464,7 +467,7 @@ address>a:hover {
     border-radius: 8px 8px 0 0;
     width: 150px;
     height:20%;
-    color:rgb(221, 191, 23);
+    color:#edba32;;
     text-align: center;
     padding: 5px 5px 5px 5px;
     border: 1px solid #46166b;
@@ -492,9 +495,27 @@ address>a:hover {
       border-image:linear-gradient(
       to bottom, 
       #45166a, 
-      rgba(0, 0, 0, 0)
+      #00000000
     ) 1 100%;
   }
+  
+#ellipse-menu{
+    position:relative;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    overflow: visible;
+}
+
+.ellispe-style{
+    fill:transparent;
+    stroke:#000000;
+    stroke-width:5;
+}
+
+.svg-ellipse{
+    overflow: visible;
+}
 
 .ellipse-menu-button{
     background-color: #45166a;
@@ -512,23 +533,56 @@ address>a:hover {
     line-height: 18px;
 }
 
-.ellipse-menu-button > a {
-    color: white;
+.ellipse-menu-button:hover {
+    color: black;
+    background-color: #edba32;
+    text-shadow:none;
+    font-weight: bold;
 }
 
-.ellipse-menu-button > a:hover {
-    color: #e4e4e4;
-    text-decoration: underline;
+#button1{
+    position:absolute; 
+    left:210px; 
+    top: -5px;
 }
 
-.svg-ellipse{
-    overflow: visible;
+#button2{
+    position:absolute; 
+    left:540px;
+    top: 60px;
 }
 
-.ellispe-style{
-    fill:transparent;
-    stroke:#000000;
-    stroke-width:5;
+#button3{
+    position:absolute; 
+    left:540px; 
+    top: 190px;
+}
+
+#button4{
+    position:absolute; 
+    left:210px; 
+    top: 255px;
+}
+
+#button5{
+    position:absolute; 
+    left:-140px; 
+    top:190px;
+}
+
+#button6{
+    position:absolute; 
+    left:-140px; 
+    top: 60px;
+}
+
+#ellipse-item-desc{
+    position: relative;
+    top: -45px;
+    left: 0px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
 }
 
 .road-map-menu{
@@ -590,6 +644,7 @@ address>a:hover {
     width: 250px;
     margin: 10px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border: none;
 }
 
 .card>a>img{
@@ -610,6 +665,7 @@ address>a:hover {
 
 .admin-info{
     text-align: center;
+    padding: 20px;
 }
 
 .title{
@@ -624,6 +680,7 @@ address>a:hover {
     content: "Email: ";
     font-style:normal;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .main-content> #search-box{

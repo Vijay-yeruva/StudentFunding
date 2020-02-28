@@ -55,17 +55,18 @@
                 <h2 class="content-header">
                     WHY FELLOWSHIPS ARE IMPORTANT
                 </h2>
-                <div class="ellipse-menu">
-                <svg class="svg-ellipse">
-                    <ellipse cx="300" cy="150" rx="300" ry="120" class="ellispe-style"/>
-                    <image x="200" y="50" width="200" height="200" href="../assets/logos/Logo1.png" />
-                </svg>
-                <button class="ellipse-menu-button" style="position:absolute; left:210px; top: -5px;">Research, Training <br>and Service</button>
-                <button class="ellipse-menu-button" style="position:absolute; left:490px; top: 60px;">Factuly<br>Mentorship</button>
-                <button class="ellipse-menu-button" style="position:absolute; left:490px; top: 190px;">Accolades &amp;<br> Recognition</button >
-                <button class="ellipse-menu-button" style="position:absolute; left:210px; top: 255px;">Career &amp;<br> Development</button>
-                <button class="ellipse-menu-button" style="position:absolute; left:-90px; top:190px;">Experiential &amp;<br> Learning</button>
-                <button class="ellipse-menu-button" style="position:absolute; left:-90px; top: 60px;">Financial &amp;<br> Support</button>
+                <div id="ellipse-menu">
+                    <svg class="svg-ellipse">
+                        <ellipse cx="300" cy="150" rx="400" ry="120" class="ellispe-style"/>
+                        <image x="200" y="50" width="200" height="200" href="../assets/logos/Logo1.png" />
+                    </svg>
+                    <p id="ellipse-item-desc"></p>
+                    <button class="ellipse-menu-button" id = "button1">Research, Training <br>and Service</button>
+                    <button class="ellipse-menu-button" id = "button2">Factuly<br>Mentorship</button>
+                    <button class="ellipse-menu-button" id = "button3">Accolades &amp;<br> Recognition</button >
+                    <button class="ellipse-menu-button" id = "button4">Career <br> Development</button>
+                    <button class="ellipse-menu-button" id = "button5">Experiential <br> Learning</button>
+                    <button class="ellipse-menu-button" id = "button6">Financial <br> Support</button>
                 </div>  
             </div>
         </div>
@@ -135,6 +136,10 @@
             <p>© 2019&nbsp;University at Albany</p>
         </section>
     </footer>
+    <script src = "../libraries/ellipse-menu.js" async></script>
+    <script src= "libraries/jquery/jquery-3.3.1.slim.js" async></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous" async></script>
+    <script src="libraries/bootstrap/js/bootstrap.min.js" async></script>
 </body>
 
 </html>
