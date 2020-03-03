@@ -350,55 +350,68 @@ address>a:hover {
     height: inherit;
   }
 
-.banner-president-title-block {
+.president-image-block{
+    float: right;
+    position: relative;
+    padding: 0 0 0 10px;
+}
+
+.president-image-block > img{
+    zoom: 60%;
+}
+
+.president-title-block {
     box-sizing: content-box;
     position: absolute;
     bottom: 3%;
-    left:40%;
-    color:  #edba32;;
+    left:5%;
+    color:#edba32;
     background-color:rgba(0, 0, 0, 0.5);
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    max-width: 30%;
+    max-width: 40%;
+    font-size: 70%
   }
 
-  .banner-president-title-block > h5 {
-    padding-top: 10px;
-    padding-left: 10px;
-    padding-right: 10px;
+  .president-title-block > h5 {
+    padding: 5px 5px 0px 5px;
     margin-bottom: 0px;
     text-shadow: 3px 1px 2px black;
+    font-size: 110%;
   }
 
-  .banner-president-title-block > p {
-    padding-left: 10px;
+  .president-title-block > p {
+    padding-left: 5px;
     color: white;
     margin-bottom: 5px;
     text-shadow: 3px 1px 2px black;
+    line-height: 12px;
   }
 
-.banner-vp-title-block {
+.vp-title-block {
     box-sizing: content-box;
     position: absolute;
     bottom: 3%;
-    left:70%;
+    left:53%;
     color:  #edba32;;
     background-color:rgba(0, 0, 0, 0.5);
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    max-width: 30%;
+    max-width: 60%;
+    font-size: 70%;
   }
 
-  .banner-vp-title-block > h5 {
-    padding-top: 10px;
-    padding-left: 10px;
+  .vp-title-block > h5 {
+    padding: 5px 5px 0px 5px;
     margin-bottom: 0px;
     text-shadow: 3px 1px 2px black;
+    font-size: 110%;
   }
 
-  .banner-vp-title-block > p {
-    padding-left: 10px;
+  .vp-title-block > p {
+    padding-left: 5px;
     color: white;
     margin-bottom: 5px;
     text-shadow: 3px 1px 2px black;
+    line-height: 12px;
   }
 
 .home-banner-top-right-block{
@@ -655,6 +668,10 @@ address>a:hover {
     position:absolute; 
     left:175px; 
     top:30px;
+}
+
+.justify-text{
+    text-align: justify;
 }
 
 .spanpurple{
