@@ -71,6 +71,26 @@ address>a:hover {
     text-decoration: underline;
 }
 
+.black-containers{
+    background-color: black;
+    height: 200px;
+    float: left;
+    width: 48%;
+    min-width: 300px;
+    margin: 2px;
+    text-align: center;
+}
+
+.black-containers >a{
+    color: white;
+    display: block;
+    margin-top: 80px;
+    font-size: 40px;
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    text-transform: capitalize;
+    line-height: 40px;
+}
+
 .buffer {
     height: 100px;
     width: 100%;
@@ -1082,3 +1102,4 @@ address>a:hover {
         width: 15%
     }   
 }
+
