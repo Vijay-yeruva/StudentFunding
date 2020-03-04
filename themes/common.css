@@ -194,6 +194,15 @@ address>a:hover {
     padding: 10px 0px 10px 0px;
 }
 
+#active-page {
+    background-color: #46166b;
+    padding-left: 10px;
+}
+
+#active-page>a {
+    color: white;
+}
+
 .navigation-item:hover {
     background-color: #46166b;
     color: white;
@@ -463,6 +472,22 @@ address>a:hover {
     padding: 0px 0 0 20px
 }
 
+.major-award-info{
+    width: 50%;
+    padding: 0 0 0 10%;
+}
+
+.major-award-info > .card{
+    vertical-align: middle;
+}
+
+.major-award-info > ul{
+    list-style-position: inside;
+}
+
+.major-award-info > p{
+   padding-left: 0px;
+}
  .tab{
     overflow: hidden;
     padding: 0 0 0 50px;
@@ -479,7 +504,7 @@ address>a:hover {
     font-size: 17px;
     margin: 0 5px 0 0;
     border-radius: 8px 8px 0 0;
-    width: 180px;
+    width: 160px;
     height:50px;
     color:#edba32;;
     text-align: center;
