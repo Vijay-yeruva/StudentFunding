@@ -398,7 +398,7 @@ address>a:hover {
 }
 
 .president-image-block > img{
-    zoom: 60%;
+    zoom: 50%;
 }
 
 .president-title-block {
@@ -603,6 +603,11 @@ address>a:hover {
     height: 50px;
     text-shadow: 3px 1px 2px black;
     line-height: 18px;
+    outline: none;
+}
+
+.ellipse-menu-button:focus{
+   outline: none;
 }
 
 .clicked {
