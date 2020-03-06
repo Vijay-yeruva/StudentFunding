@@ -10,6 +10,7 @@ let desc = document.getElementById("ellipse-item-desc");
 
 function displayDesc(button)
 {
+    button.classList.toggle("clicked");
     switch(button.id){
         case "embutton1":
             desc.innerHTML = "Fellowships provide unique opportunities to conduct novel research,"+
@@ -50,15 +51,9 @@ clear = function()
     pic.style.visibility = "visible";
 }
 
-button1.onmouseover = function() {displayDesc(this)};
-button1.onmouseleave = clear;
-button2.onmouseover = function() {displayDesc(this)};
-button2.onmouseleave = clear;
-button3.onmouseover = function() {displayDesc(this)};
-button3.onmouseleave = clear;
-button4.onmouseover = function() {displayDesc(this)};
-button4.onmouseleave = clear;
-button5.onmouseover = function() {displayDesc(this)};
-button5.onmouseleave = clear;
-button6.onmouseover = function() {displayDesc(this)};
-button6.onmouseleave = clear;
+button1.onmousedown = function() {displayDesc(this)};
+button2.onmousedown = function() {displayDesc(this)};
+button3.onmousedown = function() {displayDesc(this)};
+button4.onmousedown = function() {displayDesc(this)};
+button5.onmousedown = function() {displayDesc(this)};
+button6.onmousedown = function() {displayDesc(this)};

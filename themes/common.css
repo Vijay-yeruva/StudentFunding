@@ -605,7 +605,7 @@ address>a:hover {
     line-height: 18px;
 }
 
-.ellipse-menu-button:hover {
+.clicked {
     color: black;
     background-color: #edba32;
     text-shadow:none;
