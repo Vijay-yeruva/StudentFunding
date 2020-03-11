@@ -53,7 +53,7 @@ Primary use:    sidenav.css file used for styling side navigationbar
     text-decoration: underline;
   }
 
-  .active-page {
+.active-page {
     background-color: #4d3906 ;
     padding-left: 10px;
 }
@@ -62,7 +62,7 @@ Primary use:    sidenav.css file used for styling side navigationbar
     color: white;
 }
 
-  .navigation-sub-item {
+.navigation-sub-item {
     border-bottom: 2px solid #909090;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     font-size: 20px;
@@ -97,7 +97,6 @@ Primary use:    sidenav.css file used for styling side navigationbar
 .navigation-sub-item-default > a{
     background-color: #4d3906;
     color: white;
-    text-decoration: underline;
 }
 
 .navigation-sub-item-default:hover > a {

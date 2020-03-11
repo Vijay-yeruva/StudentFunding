@@ -260,13 +260,13 @@ address>a:hover {
     color:  #edba32;;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     background-color:rgba(0, 0, 0, 0.5);
-    width: 33%;
+    width: 450px;
 }
 
 .home-banner-text-block {
     box-sizing: content-box;
     position: absolute;
-    bottom: 7%;
+    bottom: 1%;
     left:1%;
     color:  #edba32;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
@@ -759,6 +759,15 @@ table, tr, th,td{
     .main-content>#search-box-results{
         margin-bottom: 30px;
     }
+
+    .home-banner-left-block{
+        transform: scale(0.5);
+        bottom: 0.1%;
+        left: 0.1%;
+    }
+     #ellipse-menu{
+        transform: scale(0.5);
+     }
 }
 
 @media only screen and (min-width: 768px) {
@@ -787,19 +796,34 @@ table, tr, th,td{
     .main-content> #search-box{       
         width: 510px;
     }
+    .home-banner-left-block{
+        transform: scale(0.9);
+        bottom: 2%;
+        left: 0.1%;
+    }
 }
 
 @media only screen and (min-width: 1200px) {
     #navigation-bar {
         margin-left: 100px;
     }
+
+    .home-banner-left-block{
+        transform: scale(1.0);
+        bottom: 7%;
+        left: 2%;
+    }
 }
 
-@media only screen and (max-width: 1200px) {
-    #ellipse-menu{
-        transform: scale(0.75);
-     }
+@media only screen and (min-width: 2000px) {
+
+    .home-banner-left-block{
+        transform: scale(1.5);
+        bottom: 10%;
+        left: 6%;
+    }
 }
+
 
 @media only screen and (max-width: 985px) {
     #footer {
@@ -815,6 +839,7 @@ table, tr, th,td{
 }
 
 @media only screen and (max-width: 2100px) {
+
     #road-map-menu-button1{
         left: 44%; 
         top: 78%;
