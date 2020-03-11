@@ -801,6 +801,9 @@ table, tr, th,td{
         bottom: 2%;
         left: 0.1%;
     }
+    #ellipse-menu{
+        transform: scale(0.75);
+    }
 }
 
 @media only screen and (min-width: 1200px) {
@@ -813,6 +816,10 @@ table, tr, th,td{
         bottom: 7%;
         left: 2%;
     }
+
+    #ellipse-menu{
+        transform: scale(1.0);
+    }
 }
 
 @media only screen and (min-width: 2000px) {
@@ -821,6 +828,10 @@ table, tr, th,td{
         transform: scale(1.5);
         bottom: 10%;
         left: 6%;
+    }
+
+    #ellipse-menu{
+        transform: scaleX(1.5)
     }
 }
 
