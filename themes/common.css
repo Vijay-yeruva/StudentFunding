@@ -32,6 +32,19 @@ Primary use:    Common.css file used for styling header, footer and
     background: transparent;
 }
 
+#navigation-bar {
+    list-style-type: none;
+    padding-bottom: 30px;
+}
+
+#navbar-header {
+    background-color: #382804;
+    height: 90px;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+
 a{
     color: #000000;
 }

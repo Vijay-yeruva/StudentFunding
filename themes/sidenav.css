@@ -14,19 +14,6 @@ Primary use:    sidenav.css file used for styling side navigationbar
         - Main Content/ .main-content
 -------------------------------------------------------------------*/
 
-#navigation-bar {
-    list-style-type: none;
-    padding-bottom: 30px;
-}
-
-#navbar-header {
-    background-color: #4d3906;
-    height: 90px;
-    position: fixed;
-    width: 100%;
-    z-index: 10;
-}
-
 .navigation-item {
     border-bottom: 2px solid #909090;
     color: #46166B;
