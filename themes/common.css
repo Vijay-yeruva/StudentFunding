@@ -21,6 +21,22 @@ Primary use:    Common.css file used for styling header, footer and
         - Footer Navigation/ .footer-navigation
         - CopyRight Content/ #copyright-content
 -------------------------------------------------------------------*/
+/* Adding custom fonts: TradeGothicLTStd-BdCn20, News Cycle, Public Sans*/
+
+@font-face {
+    font-family: 'TradeGothicLTStd-BdCn20';
+    src: url('../assets/fonts/TradeGothicLTStd-BdCn20.ttf');
+}
+
+@font-face {
+    font-family: 'News Cycle';
+    src: url('../assets/fonts/news-cycle.regular.ttf');
+}
+
+@font-face {
+    font-family: 'PublicSans';
+    src: url('../assets/fonts/public-sans.regular.ttf');
+}
 
 * {
     margin: 0;
@@ -53,60 +69,88 @@ a:hover{
     color: #000000;
 }
 
-/* Adding custom fonts: TradeGothicLTStd-BdCn20, News Cycle, Public Sans*/
-
-@font-face {
-    font-family: 'TradeGothicLTStd-BdCn20';
-    src: url('../assets/fonts/TradeGothicLTStd-BdCn20.ttf');
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
 }
 
-@font-face {
-    font-family: 'News Cycle';
-    src: url('../assets/fonts/news-cycle.regular.ttf');
+.page-banner-image-wrapper {
+    position: relative;
+    width: 100%;
+    top: 90px;
 }
 
-@font-face {
-    font-family: 'PublicSans';
-    src: url('../assets/fonts/public-sans.regular.ttf');
+.landing-page-image {
+    width: 100%;
 }
 
-address, address>a {
-    color: #e4e4e4;
-    margin-top: 20px;
-    font-size: 14px;
-    line-height: 22px;
-    font-weight: normal;
-    text-transform: none;
+.ualbany-logo-wrapper {
+    height: 90px;
+    width: 100%;
 }
 
-address>a:hover {
-    color: #e4e4e4;
-    text-decoration: underline;
+.ualbany-logo {
+    margin-left: 20px;
+    vertical-align: middle;
 }
 
-.black-containers{
-    background-color: black;
-    height: 200px;
-    float: left;
-    width: 48%;
-    min-width: 300px;
-    margin: 2px;
-    text-align: center;
-}
-
-.black-containers >a{
-    color: white;
-    display: block;
-    margin-top: 80px;
-    font-size: 40px;
+.home-banner-left-block{
+    box-sizing: content-box;
+    position: absolute;
+    bottom: 7%;
+    left:2%;
+    color:  #edba32;;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    text-transform: capitalize;
-    line-height: 40px;
+    background-color:rgba(0, 0, 0, 0.5);
+    width: 600px;
 }
+
+.home-banner-text-block {
+    box-sizing: content-box;
+    position: absolute;
+    bottom: 1%;
+    left:1%;
+    color:  #edba32;
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    max-width: 70%;
+  }
+
+  .home-banner-text-block > h2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    text-shadow: 3px 1px 2px black;
+  }
+
+  .home-banner-text-block > p {
+    padding-left: 10px;
+    color: white;
+    font-size: 25px;
+    text-shadow: 3px 1px 2px black;
+  }
+
+  .home-banner-image-block {
+    float: right;
+    width: 55%;
+    height: 100%;
+  }
+
+  .home-banner-image-block > img{
+    float: right;
+    padding: 0px,0px,0px,0px;
+    width: inherit;
+    height: inherit;
+  }
 
 .buffer {
     height: 100px;
     width: 100%;
+}
+
+.content-wrapper {
+    background: url('../assets/images/bkg-gray-pattern-tile.png');
+    position: relative;
+    top: 90px;
 }
 
 .content-header {
@@ -115,10 +159,12 @@ address>a:hover {
     margin-bottom: 20px;
 }
 
-.content-wrapper {
-    background: url('../assets/images/bkg-gray-pattern-tile.png');
-    position: relative;
-    top: 90px;
+.main-content {
+    color: #333333;
+    font-size: 20px;
+    font-family: 'News Cycle', Helvetica, Arial, sans-serif;
+    line-height: 26px;
+    padding-bottom: 30px;
 }
 
 #copyright-content {
@@ -188,28 +234,38 @@ address>a:hover {
     line-height: 24px;
 }
 
-.helper {
-    display: inline-block;
-    height: 100%;
-    vertical-align: middle;
+address, address>a {
+    color: #e4e4e4;
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: normal;
+    text-transform: none;
 }
 
-.page-banner-image-wrapper {
-    position: relative;
-    width: 100%;
-    top: 90px;
+address>a:hover {
+    color: #e4e4e4;
+    text-decoration: underline;
 }
 
-.landing-page-image {
-    width: 100%;
+.black-containers{
+    background-color: black;
+    height: 200px;
+    float: left;
+    width: 48%;
+    min-width: 300px;
+    margin: 2px;
+    text-align: center;
 }
 
-.main-content {
-    color: #333333;
-    font-size: 20px;
-    font-family: 'News Cycle', Helvetica, Arial, sans-serif;
-    line-height: 26px;
-    padding-bottom: 30px;
+.black-containers >a{
+    color: white;
+    display: block;
+    margin-top: 80px;
+    font-size: 40px;
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    text-transform: capitalize;
+    line-height: 40px;
 }
 
   /* The dropdown container */
@@ -244,16 +300,6 @@ address>a:hover {
     display: block;
   }
 
-.ualbany-logo-wrapper {
-    height: 90px;
-    width: 100%;
-}
-
-.ualbany-logo {
-    margin-left: 20px;
-    vertical-align: middle;
-}
-
 .major-award-image-col{
     background-color: #ffffff;
     border-width:2px;
@@ -264,52 +310,6 @@ address>a:hover {
     border-collapse: separate;
     border-color:#000000;
 }
-
-.home-banner-left-block{
-    box-sizing: content-box;
-    position: absolute;
-    bottom: 7%;
-    left:2%;
-    color:  #edba32;;
-    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    background-color:rgba(0, 0, 0, 0.5);
-    width: 450px;
-}
-
-.home-banner-text-block {
-    box-sizing: content-box;
-    position: absolute;
-    bottom: 1%;
-    left:1%;
-    color:  #edba32;
-    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    max-width: 60%;
-  }
-
-  .home-banner-text-block > h2 {
-    padding-top: 10px;
-    padding-left: 10px;
-    text-shadow: 3px 1px 2px black;
-  }
-
-  .home-banner-text-block > p {
-    padding-left: 10px;
-    color: white;
-    text-shadow: 3px 1px 2px black;
-  }
-
-  .home-banner-image-block {
-    float: right;
-    width: 65%;
-    height: 100%;
-  }
-
-  .home-banner-image-block > img{
-    float: right;
-    padding: 0px,0px,0px,0px;
-    width: inherit;
-    height: inherit;
-  }
 
 .image-blocks{
     float: right;
@@ -335,8 +335,8 @@ address>a:hover {
     color:#edba32;
     background-color:rgba(0, 0, 0, 0.5);
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    max-width: 80%;
-    font-size: 70%
+    font-size: 65%;
+    width: 90%;
   }
 
   .image-title-block > h5 {
@@ -840,7 +840,7 @@ table, tr, th,td{
     .home-banner-left-block{
         transform: scale(1.5);
         bottom: 10%;
-        left: 6%;
+        left: 10%;
     }
 
     #ellipse-menu{

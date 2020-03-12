@@ -25,7 +25,7 @@ Primary use:    sidenav.css file used for styling side navigationbar
 }
 
 .navigation-item:hover {
-    background-color: #4d3906;
+    background-color: #382804;
     color: white;
     padding-left: 10px;
 }
@@ -35,13 +35,13 @@ Primary use:    sidenav.css file used for styling side navigationbar
   }
 
 .navigation-item:hover > a {
-    background-color: #4d3906 ;
+    background-color: #382804 ;
     color: white;
     text-decoration: underline;
   }
 
 .active-page {
-    background-color: #4d3906 ;
+    background-color: #382804 ;
     padding-left: 10px;
 }
 
@@ -59,20 +59,20 @@ Primary use:    sidenav.css file used for styling side navigationbar
 }
 
 .navigation-sub-item:hover {
-    background-color: #4d3906;
+    background-color: #382804;
     color: white;
     padding-left: 20px;
 }
 
 .navigation-sub-item:hover > a {
-    background-color: #4d3906;
+    background-color: #382804;
     color: white;
     text-decoration: underline;
   }
 
 .navigation-sub-item-default {
     border-bottom: 2px solid #909090;
-    background-color: #4d3906;
+    background-color: #382804;
     color: white;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     font-size: 20px;
@@ -82,12 +82,12 @@ Primary use:    sidenav.css file used for styling side navigationbar
 }
 
 .navigation-sub-item-default > a{
-    background-color: #4d3906;
+    background-color: #382804;
     color: white;
 }
 
 .navigation-sub-item-default:hover > a {
-    background-color: #4d3906;
+    background-color: #382804;
     color: white;
     text-decoration: underline;
   }
