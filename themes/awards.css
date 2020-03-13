@@ -14,6 +14,10 @@
     padding: 0 0 0 0;
 }
 
+.awardeligibility{
+    padding: 0 0 0 0;
+}
+
 .left{
     margin: 0 0 5px 0;
     float: left;
@@ -33,4 +37,24 @@
 
 .num-list>li{
     padding: 0px 0 0 10px
+}
+
+.tile{
+    background-color: black;
+    height: 200px;
+    float: left;
+    width: 40%;
+    min-width: 300px;
+    margin: 0 2% 2% 0;
+    text-align: center;
+}
+
+.tile >a{
+    color: white;
+    display: block;
+    margin-top: 80px;
+    font-size: 40px;
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    text-transform: capitalize;
+    line-height: 40px;
 }
