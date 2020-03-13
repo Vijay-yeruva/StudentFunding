@@ -1,8 +1,7 @@
 .awardinfo{
     position: relative;
     border-bottom: 1px solid black;
-    margin-left: 50px;
-    padding: 20px 0 0 0;
+    margin: 0 0 20px 50px;
 }
 
 .awardname{
