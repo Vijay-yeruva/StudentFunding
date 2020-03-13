@@ -1,6 +1,6 @@
 //getting content Element to append grants information
 let awrdsContainer = document.getElementsByClassName('awards-container')[0];
-let requestURL = "/data/ualbanyawards.json";
+let requestURL = "data/ualbanyawards.json";
 let request = new XMLHttpRequest();
 request.open('GET', requestURL);
 request.responseType = 'json';
