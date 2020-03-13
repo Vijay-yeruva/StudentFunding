@@ -1,0 +1,37 @@
+.awardinfo{
+    position: relative;
+    border-bottom: 1px solid black;
+    margin-left: 50px;
+    padding: 20px 0 0 0;
+}
+
+.awardname{
+    padding: 0 0 0 0;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}
+
+.awarddescription{
+    padding: 0 0 0 0;
+}
+
+.left{
+    margin: 0 0 5px 0;
+    float: left;
+    width: 50%;
+}
+
+.right{
+    margin: 0 0 5px 0;
+    float: right;
+    width: 50%;
+}
+
+.num-list{
+    list-style: decimal;
+    padding: 0 0 0 50px;
+}
+
+.num-list>li{
+    padding: 0px 0 0 10px
+}
