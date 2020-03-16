@@ -403,6 +403,10 @@ address>a:hover {
     font-weight: bold;
 }
 
+.defaultlink{
+    color: #0000EE;
+}
+
 .card{
     width: 75%;
     margin: 0 20px 0 0;
