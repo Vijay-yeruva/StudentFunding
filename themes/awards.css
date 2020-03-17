@@ -40,13 +40,14 @@
 }
 
 .tile{
-    background-color: black;
+    background-color: #8d6507;
     height: 200px;
     float: left;
     width: 40%;
     min-width: 300px;
     margin: 0 2% 2% 0;
     text-align: center;
+    text-shadow: 3px 1px 2px black;
 }
 
 .tile >a{
@@ -57,4 +58,5 @@
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     text-transform: capitalize;
     line-height: 40px;
+    text-shadow: 3px 1px 2px black;
 }

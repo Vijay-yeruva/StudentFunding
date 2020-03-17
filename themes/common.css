@@ -109,20 +109,18 @@ a:hover{
     position: absolute;
     bottom: 1%;
     left:1%;
-    color:  #edba32;
+    text-shadow: 3px 1px 2px black;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+    padding: 10px;
+    width: 70%;
   }
 
   .home-banner-text-block > h1 {
-    padding-top: 10px;
-    padding-left: 10px;
-    text-shadow: 3px 1px 2px black;
+    color: white;
   }
 
   .home-banner-text-block > p {
-    padding-left: 10px;
-    color: white;
-    text-shadow: 3px 1px 2px black;
+    color:  #edba32;
   }
 
   .home-banner-image-block {
@@ -478,6 +476,21 @@ table, tr, th,td{
 }
 
 @media only screen and (max-width: 600px) {
+
+    .home-banner-left-block
+    {   
+        top: 27%;
+        width: 55%;
+    }
+    .home-banner-text-block>h1
+    {
+        font-size: 6vw;
+    }
+    .home-banner-text-block>p
+    {
+        display: none;
+    }
+
     .main-content {
         padding-top: 20px;
     }
@@ -500,6 +513,23 @@ table, tr, th,td{
     #navigation-bar {
         margin-left: 50px;
     }
+
+    .home-banner-left-block{
+        bottom: 7%;
+        left: 2%;
+        width: 61%;
+    }
+    .home-banner-text-block>h1
+    {
+        font-size: 4.6vw;
+        padding-left: 10px;
+    }
+    .home-banner-text-block>p
+    {
+       display: none;
+       padding-left: 10px;
+    }
+
     .main-content>h1, h2, h3, h4, h5, h6, p, .row {
         padding-left: 50px;
     }
@@ -516,6 +546,23 @@ table, tr, th,td{
 }
 
 @media only screen and (min-width: 992px) {
+    .home-banner-left-block{
+        bottom: 7%;
+        left: 2%;
+        width: 61%;
+    }
+
+    .home-banner-text-block>h1
+    {
+        font-size: 3.75vw;
+    }
+
+    .home-banner-text-block>p
+    {
+       display: block;
+       font-size: 1.9vw;
+    }
+
     #navigation-bar {
         margin-left: 75px;
     }
@@ -539,10 +586,6 @@ table, tr, th,td{
         left: 2%;
         width: 60%;
     }
-    .home-banner-text-block
-    {
-        width: 70%;
-    }
     .home-banner-text-block>h1
     {
         font-size: 3.2vw;
@@ -552,16 +595,6 @@ table, tr, th,td{
         font-size: 1.75vw;
     }
 }
-
-@media only screen and (min-width: 2000px) {
-
-    .home-banner-left-block{
-        transform: scale(1.5);
-        bottom: 10%;
-        left: 10%;
-    }
-}
-
 
 @media only screen and (max-width: 985px) {
     #footer {
