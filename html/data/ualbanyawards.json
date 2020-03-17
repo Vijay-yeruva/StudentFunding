@@ -86,7 +86,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "This scholarship was established by Alan Mantel '85 and Jessica Mantel to provide annual scholarship support to a student studying within UAlbany's School of Business. Preference will be given to a student pursing a Financial Analyst degree, or if one cannot be identified to a student who is pursuing a Finance degree within the School of Business.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student studying within UAlbany's School of Business; Preference will be given to a student pursing a Financial Analyst degree, or if one cannot be identified to a student who is pursuing a Finance degree within the School of Business."
         },
@@ -116,7 +116,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "The Albany High School-Capital Region Refugee Scholarship provides scholarship support for a UAlbany student who is a graduate from Albany High School and has identified him/herself as a refugee or has participated in the English as a Second Language Program (ESL) at Albany High School. If a student cannot be identified from Albany High School then this scholarship may be given to a Capital Region or New York State high School graduate who has identified him/herself as a refugee. Selection of this scholarship is based solely on academic merit and not financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "UAlbany student who is a graduate from Albany High School and has identified him/herself as a refugee or has participated in the English as a Second Language Program (ESL) at Albany High School."
         },
@@ -186,7 +186,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established through the Estate of Alice Clark Long '35, this fund provides support for students who wish to become teachers.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who wish to become teachers."
         },
@@ -196,7 +196,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Library.shtml",
             "Description": "Created by the Friends of the Libraries to honor Library Director Emeritus Alice Hastings Murphy, Director of Libraries from 1956 to 1970, this scholarship was created to provide for student library employees and full-time library staff members who want to become librarians.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student library employees and full-time library staff members who want to become librarians."
         },
@@ -286,7 +286,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established through the generosity of Amy M. Knapp '97, this scholarship provides financial support for freshman students from upstate New York who are pursuing their degree in the School of Business and who demonstrate financial need. This scholarship is renewable for up to four years.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "freshman students from upstate New York who are pursuing their degree in the School of Business"
         },
@@ -326,7 +326,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established in the memory of Anna Maria Bonaventura '74, '78, '87 by her family, this scholarship is awarded to a student enrolled in the School of Education with demonstrated interest in teaching English as a second language.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student enrolled in the School of Education with demonstrated interest in teaching English as a second language."
         },
@@ -356,7 +356,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "Established by Patricia Salkin '85, Esq., this fund helps support a full-time undergraduate or graduate student in attendance and in good academic standing, who is preparing for a career in government or law.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Undergraduate or graduate student preparing for career in government or law"
         },
@@ -366,7 +366,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Physics.shtml",
             "Description": "Given in memory of Professor Anne Rebecca Oliver (Physics), this scholarship is awarded for outstanding achievement in the Department of Physics.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Awarded for outstanding achievement in the Department of Physics"
         },
@@ -426,7 +426,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "This award has been established by Judith A. Langer, Ph.D., along with family, friends and colleagues in loving memory of Professor Arthur Applebee. In conjunction with a national literacy association, this endowment will provide an annual award to a national scholar in the area of literacy research. The award will be presented at the national association's annual conference each year.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "endowment will provide an annual award to a national scholar in the area of literacy research. The award will be presented at the national association's annual conference each year."
         },
@@ -476,7 +476,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CEAS.shtml",
             "Description": "Generously established through the estate of Barbara Schaefer '57, this endowment will provide support for the initiatives and programs occurring in the College of Engineering and Applied Sciences (previously the College of Computing and Information.)",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Support for initiatives and programs in the CEAS"
         },
@@ -526,7 +526,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "The purpose of this fund is to provide an award, when appropriate, to an individual in literary endeavors. This fund, which was established by Bernard Conners, is awarded through the New York State Writer's Institute.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "individual in literary endeavors"
         },
@@ -546,7 +546,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "This fund, established by Bernice Peebles, provides support for a deserving undergraduate or graduate student, first preference being woman of color, who is preparing for a career in teaching. Special consideration will be given to women who demonstrate both academic merit and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate student, first preference being woman of color, who is preparing for a career in teaching."
         },
@@ -566,7 +566,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "The Beta Zeta Scholarship, established through the generosity of the sisters of Beta Zeta, is awarded to a student accepted to, or enrolled in, a School of Education program who plans to pursue a career in teaching.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student accepted to, or enrolled in, a School of Education program who plans to pursue a career in teaching."
         },
@@ -576,7 +576,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by Betty Knowlton Roe, Class of 1942, the Knowlton Roe Scholarship was created to support a student accepted to, or enrolled in, a School of Education Teacher Preparation program.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student accepted to, or enrolled in, a School of Education Teacher Preparation program."
         },
@@ -616,7 +616,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Michael '78, '79 and Barbara (Bakal) '78 Borys to provide scholarship support to a student pursuing a degree within the School of Business. Recipient must demonstrate both financial need and academic excellence.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student pursuing a degree in School of Business"
         },
@@ -656,7 +656,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Mathematics.shtml",
             "Description": "Established by Mr. Bruce Gravitt, in memory of his wife, Louise Steen Gravitt, Class of 1938, this scholarship is designed to provide financial assistance to full-time, female students majoring in mathematics. The recipient is selected based on financial need and strong academic achievement. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Full-time, female students majoring in mathematics"
         },
@@ -676,7 +676,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "This fund provides support for UAlbany students who are participating in Rockefeller College's Semester in Washington program. This fund may be utilized as either a scholarship or awarded directly to students in the form of a prize or award. Selection of student is based on academic merit.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Students participating in Rockefeller College's Washington Semester Program"
         },
@@ -706,7 +706,7 @@
             "FundingLevel": "$1,000 ",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Judaic_Jewish_studies.shtml",
             "Description": "Dr. Calvin Zippin, an alumnus of the Class of '47 and of the Kappa Beta Fraternity, and his wife, Patricia, have established this endowment scholarship of $1,000 in memory of Calvin's parents Samuel and Jennie Zippin, to help outstanding students working in fields related to Judaic Studies or Hebrew Studies to pursue their educational goals.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Outstanding students of Judaic Studies"
         },
@@ -746,7 +746,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "This fund was established by Carolyn Fonda Viall, Class of 1936 to provide annual scholarship support to a UAlbany student who demonstrate high levels of academic achievement.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who demonstrate high levels of academic achievement."
         },
@@ -776,7 +776,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established in memory of Mrs. Cathy Hoey, by her husband Tom, family and friends, Cathy was an employee and student of the University at Albany.  This scholarship, in her memory, was created to support a School of Education student who has demonstrated steady academic performance as well as financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "School of Education student"
         },
@@ -786,7 +786,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CEAS.shtml",
             "Description": "This fund provides support for students within the College of Engineering and Applied Sciences to purchase required laptop.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Support for student in CEAS to purchase a required laptop"
         },
@@ -816,7 +816,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CEAS.shtml",
             "Description": "The Charles W. Lickel '77 and Ray Lickel Diversity Endowment in the College of Engineering and Applied Sciences provides financial support for a UAlbany student(s) enrolled in the College of Computing and Information to attend the Grace Hopper Celebration of Women in Computing Annual Conference. The Grace Hopper Celebration of Women in Computing is a conference series that brings the research and career interests of women in computing to the forefront.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Student enrolled in the College of Computing and Information; funds provided for the purpose of attending the Grace Hopper Celebration of Women in Computing Annual Conference"
         },
@@ -866,7 +866,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Generously established by Michael Christakis, M.P.P. '01, PhD. '05 and Christa Christakis, M.P.P. '03, this fund provides travel grants to support leadership development opportunities for UAlbany students. Such opportunities would be aimed at enhancing the development of leadership qualities in all participants — with an emphasis on leadership as a process rather than as a position and espousing the values of equity, social justice, self-knowledge, personal empowerment, collaboration, citizenship and service.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "provides travel grants to support leadership development opportunities for UAlbany students."
         },
@@ -896,7 +896,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/ims/decorm.html",
             "Description": "The Institute for Mesoamerican Studies at SUNY-Albany is pleased to present the Christopher DeCormier Memorial Scholarship in Mesoamerican Studies. Every year, the award is given to one or more graduate or undergraduate students to conduct research on Mesoamerica. Preference is given to IMS student associates. The scholarship was established to honor the memory of Christopher DeCormier, a SUNY-Albany student with strong interests in Maya culture and fieldwork. Proposed projects may be in any subfield of anthropology, but should focus on interpreting some aspect of ancient or modern Mesoamerican culture or society. Fieldwork should not be an end in itself but should contribute to an understanding of some feature of Mesoamerican culture or thought.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Graduate or undergraduate students, proposed project may be in any subfield of anthropology, but should focus on interpreting some aspect of ancient or modern Mesoamerican culture or society"
         },
@@ -956,7 +956,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by The Class of 1955, this award was created to recognize a student(s) enrolled in the School of Education who plans to pursue a career in teaching. First preference for this scholarship is given to a student(s) with demonstrated financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student(s) enrolled in the School of Education who plans to pursue a career in teaching."
         },
@@ -1016,7 +1016,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established to provide annual scholarship support to a UAlbany student who demonstrates academic achievement and who participates in at least one extra-curricular activity.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who demonstrates academic achievement and who participates in at least one extra-curricular activity."
         },
@@ -1196,7 +1196,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "This fund was generously established by friends, colleagues and family members in memory of Trooper David C. Brinkerhoff '01. Trooper Brinkerhoff died in the line of duty on April 25, 2007. The David C. Brinkerhoff '01 Memorial Scholarship Fund shall provide scholarship support to a UAlbany student who demonstrates both strong leadership and academic qualities. The recipient must also demonstrate dedication to public safety (emergency medical technician, firefighter, police officer, etc.) First preference will be given to current members of the UAlbany Five Quad Volunteer Ambulance Service (Five Quad VAS)– of  which Trooper Brinkerhoff was a proud member.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who demonstrates both strong leadership and academic qualities. The recipient must also demonstrate dedication to public safety (emergency medical technician, firefighter, police officer, etc.) First preference will be given to current members of the UAlbany Five Quad Volunteer Ambulance Service (Five Quad VAS)– of  which Trooper Brinkerhoff was a proud member."
         },
@@ -1206,7 +1206,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/undergrad-research/curce-internal-funding.php",
             "Description": "The David Griggs-Janower Departmental Service Award is given to a student who has provided outstanding service to the Department of Music.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student in the Department of Music"
         },
@@ -1246,7 +1246,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Mr. Ivan Bart '85 in memory of Deborah Kelsey '85, this fund provides scholarship support for non-traditional students, preferably female students, who have financial need and who are pursuing a degree at the University at Albany.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "non-traditional students, preferably female students, who have financial need and who are pursuing a degree at the University at Albany."
         },
@@ -1256,7 +1256,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by Mrs. Julia Fister Rector, Class of 1932, the Delta Omega Scholarship was created to provide support to an outstanding female student enrolled in a teacher education program. Each annual award is given in memory of a former sorority member, who also served on the faculty.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "female student enrolled in a teacher education program"
         },
@@ -1266,7 +1266,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "This scholarship provides scholarship support for students within UAlbany's School of Business.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students within UAlbany's School of Business."
         },
@@ -1316,7 +1316,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "The Donald E. Boyce III, '06, '08 Business and Financial Market Regulation Scholarship will provide scholarship support for UAlbany students within the School of Business who demonstrate academic excellence and service to the School of Business, University community and/or the community at large. Preference will be given to a student majoring in Financial Market Regulation at the UAlbany's School of Business.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students within the School of Business; Preference will be given to a student majoring in Financial Market Regulation at the UAlbany's School of Business."
         },
@@ -1336,7 +1336,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Chemistry.shtml",
             "Description": "Established through the Estate of Dorothy Blizzard '32, this fund provides scholarship support to a UAlbany student(s) studying Chemistry who demonstrates good character, diligence and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Student studying Chemistry"
         },
@@ -1356,7 +1356,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Daniel M. Selleck '71, this scholarship provides support to student(s) enrolled in the School of Business with demonstrated financial need. First preference for this scholarship will be given to students transferring to UAlbany from a community college who have military experience. It is the donor's second preference that should no candidate with military experience be identified, the scholarship would then be given to a student transferring to UAlbany from a community college. In the event no qualified candidates from a community college are identified, other qualified recipients may be selected at the discretion of the fund manager.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student(s) enrolled in the School of Business; First preference given to students transferring to UAlbany from a community college who have military experience. Second preference given to a student transferring to UAlbany from a community college."
         },
@@ -1426,7 +1426,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by Mrs. Elizabeth Sipe in memory of her husband, Dr. H. Craig Sipe, this scholarship is awarded to a matriculated School of Education student, who demonstrates financial need, has exceptional academic achievement, and who demonstrates an interest in pursuing a career in science education, preferably chemistry or physics.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "matriculated School of Education student, who demonstrates an interest in pursuing a career in science education, preferably chemistry or physics."
         },
@@ -1456,7 +1456,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established in the memory of Dr. Kimberly E. Esterman, Class of 2002, the Esterman Award was created to support a student working in the Middle Earth Peer Assistance Program, and who is enrolled in the School of Education, with a demonstrated interest in working in alcohol, drug, and/or suicide prevention programs at the collegiate level.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student working in the Middle Earth Peer Assistance Program, and who is enrolled in the School of Education, with a demonstrated interest in working in alcohol, drug, and/or suicide prevention programs at the collegiate level."
         },
@@ -1516,7 +1516,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Dr. Theodore H. Fossieck, former Principal of the Milne School and member of the Education faculty, the purpose of this fund is to provide a scholarship support to a UAlbany student who demonstrates financial need and/or academic merit. Preference for this scholarship will be given to a descendant of a Milne School graduate or of a Milne School faculty member.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who demonstrates financial need and/or academic merit. Preference for this scholarship will be given to a descendant of a Milne School graduate or of a Milne School faculty member."
         },
@@ -1586,7 +1586,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Mathematics.shtml",
             "Description": "This scholarship has been established in loving memory of Dr. Edward Thomas, by his wife Harriet Thomas, along with his family, friends and colleagues. This scholarship provides support to an outstanding student within the Department of Mathematics and Statistics. Financial need shall not be a factor in the selection process.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Student in Department of Mathematics and Statistics"
         },
@@ -1596,7 +1596,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_English.shtml",
             "Description": "The Eleanor Rosalie Bazzoni, Class of 1906 Fellowship was established by Charles Bazzoni in honor of his sister. This fund is for outstanding achievement in English, French or German, and is in memory of Eleanor Rosalie Bazzoni, Class of 1906. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student studying English, French, or German"
         },
@@ -1656,7 +1656,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Awarded to a student in a literacy program who has a special interest in adult literacy.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student in a literacy program who has a special interest in adult literacy."
         },
@@ -1666,7 +1666,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Mrs. Kautter Schwartz to help provide support for students who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate financial need."
         },
@@ -1696,7 +1696,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "The Eric R. Solomon Memorial Scholarship provides support to UAlbany students who are studying within UAlbany's School of Business and demonstrate financial need. This fund has been established by Gene and Ruth Solomon in loving memory of their son, Eric. Eric was a proud graduate of UAlbany's School of Business in 2009.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who are studying within UAlbany's School of Business and demonstrate financial need."
         },
@@ -1706,7 +1706,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Erica ‘86 and Michael Olin '85, '86, this scholarship provides support for extraordinarily talented and highly motivated students who attend the University at Albany. This scholarship was established in the belief that gifted students stimulate both their fellow students and their teachers, and by so doing will help to attract top students to the University at Albany. Awarded based on merit, this scholarship is need-blind as financial need is not considered in the awarding of this scholarship.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "extraordinarily talented and highly motivated students who attend the University at Albany."
         },
@@ -1716,7 +1716,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Mrs. Milano, Class of 1936, in memory of her husband, Ernest Milano, Class of 1936, this scholarship is awarded to outstanding students enrolled in the School of Business.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students enrolled in the School of Business."
         },
@@ -1816,7 +1816,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "The fund was established by Frances Lemke, Class of 1931, to provide scholarships to full time students, preferably female, who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "full time students, preferably female, who demonstrate financial need."
         },
@@ -1856,7 +1856,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Library.shtml",
             "Description": "Established in 1992 by the Friends of the Libraries to recognize the valuable contributions student assistants make to Albany's Libraries, this fund is used to award prizes annually to selected student assistants in the University Libraries who have contributed outstandingly to the Libraries while maintaining solid academic records.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student assistants in the University Libraries who have contributed outstandingly to the Libraries while maintaining solid academic records."
         },
@@ -1866,7 +1866,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Music.shtml",
             "Description": "The Futterer-Gould Fund was established by Harold Gould '47 in honor of and in memory of his teacher, Miss Agnes Futterer, the creator of the Theatre Program at UAlbany. The purpose of this endowment is to provide support to encourage the speaking skills that actors need in performing plays that contain the kind of heightened language encountered in the classical repertoire.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Provides support to enocourage speaking skills for classical actors"
         },
@@ -1876,7 +1876,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "This fund was established by Galen R. Plumb, Class of 1938 to provide annual scholarship or fellowship support of a full-time UAlbany student who demonstrates high levels of academic achievement and who is committed to a career in teaching.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "full-time UAlbany student who demonstrates high levels of academic achievement and who is committed to a career in teaching."
         },
@@ -1926,7 +1926,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established in honor of The Honorable Gerald D. Jennings '76, former Mayor of the City of Albany, this scholarship will provide financial support to UAlbany students who are from the City of Albany, and who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who are from the City of Albany, and who demonstrate financial need."
         },
@@ -1936,7 +1936,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by Mrs. Parlin, Class of 1917, the Parlin Teacher's Scholarship was created to support students in a School of Education program that leads to initial, permanent, or professional certification in secondary teaching.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students in a School of Education program that leads to initial, permanent, or professional certification in secondary teaching."
         },
@@ -1966,7 +1966,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "Established in honor of Gloria DeSole, a leading educator and administrator at UAlbany, this fund provides for the enhancement of educational and career opportunities for women at the University at Albany. First preference will be given to women of color and women with disabilities.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "women at the University at Albany; First preference will be given to women of color and women with disabilities."
         },
@@ -2016,7 +2016,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Allan M. Greissman, M.D. '83, this scholarship provides scholarship support for students pursuing a degree within UAlbany's School of Business. Student recipient shall demonstrate academic excellence and/or financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students pursuing a degree within UAlbany's School of Business"
         },
@@ -2036,7 +2036,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_LitLangandCultures.shtml",
             "Description": "Established by Mr. Enfanto '35, long standing Principal of Troy High School, this award is available to students who demonstrate academic excellence in the field of French language or culture at UAlbany. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Students who demonstrate academic excellence in the field of French language or culture"
         },
@@ -2046,7 +2046,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CEHC.shtml",
             "Description": "The H.W. Wilson Scholarship provides support for students within the Department of Information Science. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Students in Department of Information Science"
         },
@@ -2056,7 +2056,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Generously established through the estate of Professor Harold Pazer and his family, and named in memory of Professor Pazer and his wife, Barbara '71, this fund will provide book scholarships for School of Business students who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "provides book scholarships for School of Business students who demonstrate financial need."
         },
@@ -2076,7 +2076,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/undergrad-research/curce-internal-funding.php",
             "Description": "Established by Harold Gould '47. Awarded to a student who has demonstrated the greatest proficiency in speaking words of heightened language. The award is based on the degree to which the student appreciates the effectiveness of the spoken word as it integrates with the other performing elements in expressing logical and emotional content.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who has demonstrated the greatest proficiency in speaking words of heightened language"
         },
@@ -2106,7 +2106,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "Established by Cynthia Scott '73 in memory of her grandmothers, the purpose of this scholarship is to support women students who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "women students who demonstrate financial need."
         },
@@ -2136,7 +2136,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_History.shtml",
             "Description": "Established to provide annual scholarship support for students studying history within UAlbany's College of Arts & Sciences and who have expressed an interested teaching history.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Students studying history who have expressed an interest in teaching history"
         },
@@ -2146,7 +2146,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Biological%20sci.shtml",
             "Description": "Established by Helga Karker, M.S. '75, who spent 33 years as a teacher and school psychologist before retiring in 1988, this fund provides an annual scholarship to support a student with demonstrated financial need; who is pursuing a degree in Biodiversity, Conservation and Policy; with preference given to a female student.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Student pursing a degree in Biodiversity, Conservation and Policy; preference given to a female student"
         },
@@ -2156,7 +2156,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Marinus N. Henny '74 and Michelle Gaspard '73, this fund provides a scholarship for student(s) enrolled in the School of Business at the University at Albany with demonstrated financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student(s) enrolled in the School of Business"
         },
@@ -2176,7 +2176,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "This fund was established by a number of donors to IFW to provide support for the enhancement of educational and career opportunities for mothers who are students or employees at the University at Albany. It is to be awarded through the Initiatives for Women program, and recipients must demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "mothers who are students or employees at the University at Albany."
         },
@@ -2186,7 +2186,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_General.shtml",
             "Description": "The Hope and William J. Cassano '85 Scholarship was established by Mr. William J. Cassano '85 to provide scholarship support for undergraduate or graduate student (s) at the University at Albany pursuing a degree in the College of Arts and Sciences, who demonstrate financial need as defined by the University at Albany, and who have shown academic achievement. It is the donor's first preference that this scholarship will be awarded to recipients who are the first generation in his/her family to attend college.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Under-represented students majoring in disciplines in the Liberal Arts, enrolled in the College of Arts & Sciences"
         },
@@ -2216,7 +2216,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Howard Kaplan '82 and his wife Randi Schuster Kaplan '82, the Kaplan Scholarship provides support for an undergraduate or graduate student(s) at the University at Albany who is pursuing a degree in Financial Market Regulation. The recipient(s) should demonstrate both academic achievement and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate student(s) at the University at Albany who is pursuing a degree in Financial Market Regulation"
         },
@@ -2226,7 +2226,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Eric R. Howell '92 and Amy K. Howell '92, this scholarship provides support for a student studying within UAlbany's School of Business and who demonstrates academic excellence.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student studying within UAlbany's School of Business"
         },
@@ -2236,7 +2236,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "This fund, established by Dr. Raul Heurta, D.A. '07, Professor David Huerta and the Heurta Family, will provide scholarship support to students who demonstrate financial need, with first preference given to students of Hispanic origin. It is the donors' wish that the recipients of this scholarship are students whose parents or grandparents had been employed in basic service-related work, such as maids, housekeepers, custodians, laborers, etc.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate financial need, with first preference given to students of Hispanic origin. It is the donors' wish that the recipients of this scholarship are students whose parents or grandparents had been employed in basic service-related work, such as maids, housekeepers, custodians, laborers, etc."
         },
@@ -2256,7 +2256,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established in honor of Edward S. Goldmacher, who was instrumental in establishing the field of human resources information systems, this fund provides annual awards to student and faculty members to support scholarship and research in the field of HRIM.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student and faculty members to support scholarship and research in the field of HRIM"
         },
@@ -2266,7 +2266,7 @@
             "FundingLevel": "$500-1500",
             "Website": "https://www.albany.edu/ifw/Child/ToApply.html",
             "Description": "Initiatives For Women is an all-volunteer organization dedicated to supporting the educational and professional goals of women at the University at Albany. To that end, IFW participates in a variety of activities each year to raise money to support recipients chosen through an annual round of applications. Most of the award money comes from individuals who have made donations to support campus women.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Any woman who is a University employee (faculty or staff) or registered student"
         },
@@ -2276,7 +2276,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "Provides support for University women (students, faculty and staff) who are United States citizens and who are pursuing studies or advancement in a computer technology field. The recipient(s) must demonstrate financial need, and preference will be given to those pursuing technical development rather than applications use. Established by Kathy Turek and other donors to IFW.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "University women (students, faculty and staff) who are United States citizens and who are pursuing studies or advancement in a computer technology field; preference will be given to those pursuing technical development rather than applications use"
         },
@@ -2286,7 +2286,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "Provides for the enhancement of educational and career opportunities for women students, faculty and staff.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "women students, faculty and staff."
         },
@@ -2296,7 +2296,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Generously established by Patricia A. Caldwell '75 MBA, this fund provides support for School of Business faculty and student research when commercial application of the research will be explored. This fund is designed to enhance the educational experiences for our students, and support the exploration of new concepts and research that are at an early state: therefore not ready for forming a competitive proposal for submission to a fund agency. Expenditures may include, but are not limited to, infrastructure and equipment; faculty and graduate student stipend and educational support; post-doctoral salary and benefits; and undergraduate stipends.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "provides support for School of Business faculty and student research when commercial application of the research will be explored"
         },
@@ -2306,7 +2306,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SSW.shtml",
             "Description": "The Internships in Aging Project (IAP) Alumni Endowment was established to provide scholarship(s) for students enrolled in the Internships in Aging (IAP) program through the School of Social Welfare. Recipient(s) should demonstrate academic achievement and a commitment to work with older persons and their families. This fund was also established to ensure the continuation of quality field and classroom education in social work with older adults and their families. IAP is an educational program that prepares MSW-level professional social workers for leadership roles in service to older persons.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students enrolled in the Internships in Aging (IAP) program through the School of Social Welfare."
         },
@@ -2316,7 +2316,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established in honor of alumni  Ira '43 and Elsie '42 Ferber Freedman by their children, Ann Freedman and David Freedman, this scholarship helps provide support for a student matriculated in the School of Education who has demonstrated financial need and who has shown exceptional academic achievement. Preference is for the recipient to have expressed interest in becoming an educator in the public schools.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student matriculated in the School of Education who has demonstrated financial need and who has shown exceptional academic achievement. Preference is for the recipient to have expressed interest in becoming an educator in the public schools."
         },
@@ -2326,7 +2326,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by the children of Ira '43 and Elsie Ferber Freedman '42, to support a School of Education student interested in becoming an educator in the public schools who has shown exceptional academic achievement and demonstrated financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "School of Education student interested in becoming an educator in the public schools"
         },
@@ -2336,7 +2336,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Judaic_Jewish_studies.shtml",
             "Description": "Established by Irving Fishman, Class of 1940, and member of the Kappa Beta fraternity, this fund is awarded to Judaic Studies students who demonstrate financial need. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Judaic Studies students who demonstrate financial need"
         },
@@ -2376,7 +2376,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established in honor of the late John A. Ether, Professor and Chair of the Department of Curriculum and Instruction, from 1962 to 1987. This scholarship was created to support a School of Education student who has demonstrated exceptional academic achievement and has expressed interest in working with disadvantaged individuals as part of his or her career goals.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "School of Education student who has demonstrated exceptional academic achievement and has expressed interest in working with disadvantaged individuals as part of his or her career goals."
         },
@@ -2436,7 +2436,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CEHC.shtml",
             "Description": "Established by Jan A. Maas '94, this fund provides support to students pursuing their degree within UAlbany's College of Emergency Preparedness, Homeland Security and Cybersecurity, concentrating in Cybersecurity.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Students in CEHC concentrating in Cybersecurity"
         },
@@ -2446,7 +2446,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Mr. Takas '43 in memory of his wife, Jane '45, this scholarship is awarded to a student who demonstrates academic accomplishment and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who demonstrates academic accomplishment and financial need."
         },
@@ -2456,7 +2456,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SSW.shtml",
             "Description": "This fund, established in memory of SSW Professor Janet Perloff, provides for a student who demonstrates academic excellence, leadership and interest in a career which combines public health and social welfare.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who demonstrates academic excellence, leadership and interest in a career which combines public health and social welfare."
         },
@@ -2476,7 +2476,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "Established in honor of Jean Ellis Poletti, who saw the need to attract young people of excellence to public service, this internship is awarded to a student of the Nelson A. Rockefeller College of Public Affairs and Policy to work within a State agency.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student of Rockefeller college; internship to work within a state agency"
         },
@@ -2536,7 +2536,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Generously established in memory of Assistant Dean John S. Levato, this scholarship provides support for a student pursing a degree within The University at Albany's School of Business who demonstrates academic achievement and service to the School of Business, University community and/or the community at large.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student pursing a degree within The University at Albany's School of Business"
         },
@@ -2546,7 +2546,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Student_Affairs.shtml",
             "Description": "Lovingly established by the family and many friends of Jonathan, this scholarship provides recognition and support to a UAlbany student (undergraduate or graduate) who best exemplifies Jonathan's school spirit, meaningful involvement within the UAlbany community, leadership on campus and overall enthusiasm and passion. The first preference is that the scholarship is awarded to a student affiliated with the Liberty Partnerships Program. If this recipient cannot be identified, the scholarship will be awarded to another student reflecting the above criteria. The recipient should also demonstrate financial need. Jonathan, who graduated with his Master's degree in Education in 2018 and Bachelor's in History in 2016, was ready to change the world. He was heavily involved with extracurricular activities at UAlbany, and provided significant leadership to the Orientation Office, Residential Life, Gender & Sexuality Resource Center and Liberty Partnerships Program.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student (undergraduate or graduate) who best exemplifies school spirit, meaningful involvement within the UAlbany community, leadership on campus and overall enthusiasm and passion. The first preference is that the scholarship is awarded to a student affiliated with the Liberty Partnerships Program. If this recipient cannot be identified, the scholarship will be awarded to another student reflecting the above criteria."
         },
@@ -2556,7 +2556,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "Established through the generosity of Dr. Joseph and his wife, Helen, M.A. '78, this fund provides scholarship support for students within the Rockefeller College of Public Affairs who have financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Students within Rockefeller College of Public Affairs"
         },
@@ -2566,7 +2566,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by the estate of Ruth H. Davis in memory of Joseph E. Davis, this scholarship provides support to undergraduate or graduate students, preferably African American, who are pursuing their degree at UAlbany and who demonstrate financial need. Mr. Davis was appointed a member of the Board of Trustees in May, 1965, and during his three years of service as a Trustee, he demonstrated his great interest in the advancement of the University and the improvement of higher educational opportunities for all youth of New York State. Mr. Davis passed away in May 1968.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate students, preferably African American, who are pursuing their degree at UAlbany and who demonstrate financial need. This scholarship was established by Mr. Stanley Stahl in memory of his wife Joyce, to provide scholarship support to single parents with demonstrated financial need."
         },
@@ -2606,7 +2606,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "This scholarship was established by Mr. Stanley Stahl in memory of his wife Joyce, to provide scholarship support to single parents with demonstrated financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "single parents with demonstrated financial need"
         },
@@ -2626,7 +2626,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established in honor of Julia M. Filippone, Ph.D., by her colleagues and friends, on the occasion of her retirement as Executive Director of University Auxiliary Services at UAlbany. The purpose of this scholarship is to provide support for a student(s) at the University at Albany who demonstrate financial need. First preference for this scholarship will go to students who have been affiliated with programs provided through Parsons Child and Family Center (“Parsons”), 60 Academy Road, Albany, NY. If a student affiliated with Parsons cannot be identified, the scholarship may be use to support any UAlbany student who demonstrates need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student(s) at the University at Albany who demonstrate financial need. First preference for this scholarship will go to students who have been affiliated with programs provided through Parsons Child and Family Center (“Parsons”), 60 Academy Road, Albany, NY."
         },
@@ -2706,7 +2706,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by Dr. Kenneth Doran, Class of 1939, and Mrs. Kathleen Doran, M.S. '70, this scholarship is awarded to an academically successful and promising student accepted to, or in the early stages of, a School of Education program that leads to initial certification in teaching.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student accepted to, or in the early stages of, a School of Education program that leads to initial certification in teaching."
         },
@@ -2756,7 +2756,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/undergrad-research/curce-internal-funding.php",
             "Description": "This award is given in honor/memory of Kim Wilson, respected friend, student, and colleague, as a living testament from all who knew her - for far too short a time. Kim was affable, selfless, and humorous; possessed knowledge, good sense, and skill; and sought greater wisdom, friendship, and understanding.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N"
         },
         {
@@ -2765,7 +2765,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "The Kristen Huff Travel Award provides travel awards for students within the School of Education.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students within the School of Education."
         },
@@ -2785,7 +2785,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SSW.shtml",
             "Description": "The Ladan Alomar Scholarship was established to provide scholarship support to undergraduate or graduate students pursuing a degree within the School of Social Welfare. Preference for this scholarship is given to Latino or Latina students.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate students pursuing a degree within the School of Social Welfare. Preference for this scholarship is given to Latino or Latina students."
         },
@@ -2815,7 +2815,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established through the generosity of Laura Woernley Buck, this fund provides scholarship support for students who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate financial need."
         },
@@ -2835,7 +2835,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Robert W. 77 and Shirley A. Lazar, this scholarship provides financial support to a student pursuing a degree within the School of Business who demonstrates academic achievement. First preference is given to a recipient who is a part-time student in accounting who works full-time in banking. If a student cannot be identified using the first preference criteria, the scholarship will be awarded to a School of Business student studying accounting.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student pursuing a degree within the School of Business; preference given to a recipient who is a part-time student in accounting who works full-time in banking."
         },
@@ -2855,7 +2855,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by fifteenth UAlbany president H. Patrick Swygert, in memory of his parents, this fund provides support for undergraduate or graduate students, who demonstrate financial need, to purchase textbooks.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "support for undergraduate or graduate students, who demonstrate financial need, to purchase textbooks."
         },
@@ -2885,7 +2885,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "Established by Professor Judith Barlow, this fund provides education and career opportunities for women students and staff at the University at Albany.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "women students and staff at the University at Albany."
         },
@@ -2895,7 +2895,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Music.shtml",
             "Description": "Established by Monte S. Lipman '86 and Avery T. Lipman '88, this fund provides scholarship support to students who are either majoring or minoring in Music Studies. First preference for this scholarship is that the student recipient be interested in a future career in the music industry. Student recipients must be in good academic standing and demonstrate financial need. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Students majoring or minoring in Music Studies; first preference for students with interest in career in music industry"
         },
@@ -2905,7 +2905,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Lisa K. Fund '05, this scholarship provides support for UAlbany students, preferably female, who demonstrate academic achievement, is pursuing a liberal arts degree and is a student athlete.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students, preferably female, who demonstrate academic achievement, are pursuing a liberal arts degree and are a student athlete."
         },
@@ -2935,7 +2935,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "Established by Meredith Butler, past Dean and Director of the University Libraries, in honor of her parents, this fund provides general support for the enhancement of educational and career opportunities for women at the University at Albany.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "general support for the enhancement of educational and career opportunities for women at the University at Albany."
         },
@@ -2965,7 +2965,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "Established by Jeffrey '91, '01 and Shelley Luks, this scholarship provides support to a UAlbany student pursuing a degree within the School of Business, preference will be given to a student studying Accounting or at Rockefeller College. Recipient should demonstrate Financial Need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student pursing degree within the School of Businessl preference to student studying Accounting or at Rockefeller College"
         },
@@ -2975,7 +2975,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Marc T. Macaulay '91 and Sondra L. Macaulay '91 in honor of their parents, Mr. and Mrs. Thomas E. Macaulay and Mr. and Mrs. Francis J. Meehan, this scholarship provides support for UAlbany students who demonstrate academic excellence and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate academic excellence and financial need."
         },
@@ -2985,7 +2985,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Mr. Shipman, a retired teacher, counselor and school administrator, in memory of his wife, Jeannette, a highly regarded English teacher. This is to support a student who has financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who has financial need."
         },
@@ -2995,7 +2995,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by Malcolm E. Blum, Class of 1954, the Blum Endowment was created to support students enrolled in full-time study in a School of Education program that leads to initial, permanent, or professional certification in teaching.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students enrolled in full-time study in a School of Education program that leads to initial, permanent, or professional certification in teaching."
         },
@@ -3005,7 +3005,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Journalism.shtml",
             "Description": "The Marc G. Guggenheim '92 Endowed Scholarship provides scholarship support for UAlbany student(s) who demonstrates academic excellence and who are interested in pursuing a career in writing.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student interested in pursuing a career in writing"
         },
@@ -3015,7 +3015,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Library.shtml",
             "Description": "The Marcia J. Brown Library Fund provides scholarship support to students within the Libraries.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students within the Libraries"
         },
@@ -3025,7 +3025,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by the estate of author Marcia J. Brown, this scholarship provides support for UAlbany students who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate financial need."
         },
@@ -3035,7 +3035,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Generously established by Margaret and William Robelee '64, '66 MA, '78 MS, '89 Psy.D., to provide scholarship support to a full-time student pursuing a degree in the University at Albany's School of Education.  Recipient must be a full-time student studying in the Division of School Psychology who demonstrates financial need and who plans a career in school psychology. If no recipient can be identified in this program, then support may be awarded to a student accepted for graduate study in the Teacher Education program who demonstrates financial need and who is planning a career in teaching.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "full-time student studying in the Division of School Psychology who plans a career in school psychology. If no recipient can be identified in this program, then support may be awarded to a student accepted for graduate study in the Teacher Education program who demonstrates financial need and who is planning a career in teaching."
         },
@@ -3065,7 +3065,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Maria Dempsey '87, this scholarship provides support for a student studying within the University at Albany's School of Business. Preference for this scholarship will be given to a student interested in international business.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student studying within the University at Albany's School of Business; preference given to a student interested in international business."
         },
@@ -3075,7 +3075,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Veteran_Miliary.shtml",
             "Description": "Established through The Marine Corps Coordinating Council, this scholarship provides support for a student pursuing a degree at UAlbany who is in good academic standing, and who is either currently enlisted in the Marine Corps (Active or Reserves) or veteran who has been honorably discharged.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student who is either currently enlisted in the Marine Corps (Active or Reserve) or a veteran who has been honorably discharged"
         },
@@ -3105,7 +3105,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SSW.shtml",
             "Description": "Generously established through the estate of Paul T. Reagan '60, in honor of his parents L. Mark and Helen Reagan, this scholarship provides support for a UAlbany's School of Social Welfare. Student recipients shall be either undergraduate or graduate students who demonstrate financial need. The Donor's first preference is that the student recipient be from St. Lawrence County in New York State. The Donor's second preference is that the student recipient be from Dutchess County in New York State. If a student recipient cannot be identified from either county, a student from any other upstate New York County may be selected.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "School of Social Welfare undergraduate or graduate students; The Donor's first preference is that the student recipient be from St. Lawrence County in New York State. The Donor's second preference is that the student recipient be from Dutchess County in New York State. If a student recipient cannot be identified from either county, a student from any other upstate New York County may be selected."
         },
@@ -3155,7 +3155,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Library.shtml",
             "Description": "Established in 1998 by Miriam Snow Mathes '26, to honor the memory of Martha Caroline Pritchard, the first Director of the University at Albany's Library School, recipients of the Pritchard Award must be Library/Information Science students working in the University Libraries and partners with a member of the Library faculty working on a project or new initiative that leads to an improvement in the services of the University Libraries.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Library/Information Science students working in the University Libraries and partners with a member of the Library faculty working on a project or new initiative that leads to an improvement in the services of the University Libraries."
         },
@@ -3185,7 +3185,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "This Fund was established by Peter W. Brusoe, Ph.D. '03, '04 in honor of his parents, Mary and Peter J. Brusoe, to provide annual scholarships and/or awards to UAlbany students who are participating in Rockefeller College's Washington Semester Program.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Students participating in Rockefeller College's Washington Semester Program"
         },
@@ -3215,7 +3215,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Lovingly established by LTC Robert Chilton, Jr., this scholarship provides support for a student from New York State who demonstrates financial need, and who is pursuing his/her degree within the School of Education. The recipient should show an interest in a career in education.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student from New York State who is pursuing his/her degree within the School of Education. The recipient should show an interest in a career in education."
         },
@@ -3235,7 +3235,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "In December 2014, the Massry Family generously contributed $5.25 million to the School of Business. The University will use this transformative gift to ensure that its School of Business building, named the Massry Center for Business in September 2015, remains a state-of-the-art resource for teaching, learning and research. The Massry gift will also fund speakers, conferences, and visiting faculty to enrich the academic experience for School of Business students. And, the Massry Community Fellows Program will provide support for students from across the University to pursue internships with local non-profits, where funding for student internships is not normally available. The program's goal is to strengthen community service, a hallmark of the Massry family, and public engagement, a core priority of the University.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "support for students from across the University to pursue internships with local non-profits, where funding for student internships is not normally available"
         },
@@ -3275,7 +3275,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "The Michael and Chenoa Lyons Scholarship provides scholarship support for a student who is a son or daughter of a law enforcement officer. Scholarship recipient shall be identified by the Office of Financial Aid.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who is a son or daughter of a law enforcement officer."
         },
@@ -3285,7 +3285,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "Generously established by Michael A. Boots, this award recognizes students, preferably female, who have demonstrated outstanding achievement at UAlbany and who have distinguished themselves in all sectors of campus life. This endowment was established in memory of Shirley Boots, Angela Germano, Madeline Proler, and Barbra Spagnola. It is also in honor of Susan Axelord, Eileen Boots, Meredith Butler, Amy Carroll Coumonduros, Gloria DeSole, Susan Kaplow, Cecilia Lauenstein, Ann Mataraso, Carol Morgan, Kathy Parisian, Libby Post, Janet Riker, Christina Sebastian and Kathryn Zox.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students, preferably female, who have demonstrated outstanding achievement at UAlbany and who have distinguished themselves in all sectors of campus life."
         },
@@ -3295,7 +3295,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Michael B. '83 and Lori M. '83 Nash to provide scholarship support to a UAlbany student pursuing a degree within the School of Business. Recipient must demonstrate both academic achievement and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student pursuing a degree within the School of Business"
         },
@@ -3315,7 +3315,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Disability_Resource_Center.shtml",
             "Description": "Established in honor of Michael Corso '83, this award is for students who achieve a 3.0+ GPA, who have shown strong campus involvement and/or leadership, and who are registered through the Disability Resource Center. This award provides funds for expenses related to continued academic success and/or for the acquisition of equipment or adaptive technology.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who achieve a 3.0+ GPA, who have shown strong campus involvement and/or leadership, and who are registered through the Disability Resource Center. This award provides funds for expenses related to continued academic success and/or for the acquisition of equipment or adaptive technology."
         },
@@ -3375,7 +3375,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by William D. Danko, Ph.D. in memory of his parents, this award is given to a student who has demonstrated a pattern of giving to others her/his most precious resource: time. A matching grant is made to the recipient's charity of choice.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who has demonstrated a pattern of giving to others her/his most precious resource: time."
         },
@@ -3465,7 +3465,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/undergrad-research/curce-internal-funding.php",
             "Description": "Established in memory of Nathan Gottschalk, faculty member in the Department of Music. The purpose of this award is to support the activities of the University Orchestra.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Supports the activities of the University Orchestra"
         },
@@ -3485,7 +3485,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Norman Arnold '40, this fund provides scholarship support for full-time students who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "full-time students who demonstrate financial need."
         },
@@ -3495,7 +3495,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CEHC.shtml",
             "Description": "The NYS Cyber Security Conference Scholarship provides support to undergraduate and/or graduate students who are studying within UAlbany's School of Business or College of Emergency Preparedness, Homeland Security and Cybersecurity. Student recipients must demonstrate interest in cybersecurity and proven academic excellence. Financial need is not considered.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Undergraduate or graduate students in School of Business or CEHC; must demonstrate interest in cybersecurity"
         },
@@ -3525,7 +3525,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by multiple donors, including members of the Class of 1959, this scholarship provides support to student(s) who demonstrate academic achievement. This does not exclude students with demonstrated financial need, but recipients should demonstrate academic achievement.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student(s) who demonstrate academic achievement."
         },
@@ -3535,7 +3535,7 @@
             "FundingLevel": "$250-500",
             "Website": "https://archives.albany.edu/web/awards/",
             "Description": "Cash awards will be given to one (1) undergraduate student and one (1) graduate student who submit the application describing a research project/class paper related to the history of feminist or social justice advocacy and activism using materials in our Libraries' M. E. Grenander Department of Special Collections & Archives. The awards are $250 for undergraduate and $500 for graduate students. The award is open to students of all and any gender identity and expression.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student must research history of feminist or social justice advocacy and activism using materials in UAlbany's Libraries' M.E. Grenander Department of Special Collections and Archives"
         },
@@ -3545,7 +3545,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established through a bequest by Patsy Eberhardt '61, this scholarship provides assistant to students who demonstrate financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate financial need."
         },
@@ -3585,7 +3585,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established in memory of Paul Saimond '54, '55, this scholarship was created to support a School of Education student pursuing a career in secondary teaching or school leadership who shows exceptional academic achievement and demonstrates financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "School of Education student pursuing a career in secondary teaching or school leadership"
         },
@@ -3595,7 +3595,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Generously established by Rena Fowler in memory of her father, who was a strong proponent of education, The Paul Wayne Fowler Memorial Scholarship will provide support for undergraduate or graduate students who demonstrate financial need and/or academic achievement. All recipients must be in good academic standing. The Donor's first preference is that the recipients are from Saratoga, Warren or Washington counties. If a recipient from Saratoga, Warren or Washington counties cannot be identified, a recipient from any Capital Region county (which consists of Albany, Columbia, Greene, Rensselaer, Saratoga, Schenectady, Warren or Washington) may be awarded this scholarship.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate students who demonstrate financial need and/or academic achievement. The Donor's first preference is that the recipients are from Saratoga, Warren or Washington counties. If a recipient from Saratoga, Warren or Washington counties cannot be identified, a recipient from any Capital Region county (which consists of Albany, Columbia, Greene, Rensselaer, Saratoga, Schenectady, Warren or Washington) may be awarded this scholarship."
         },
@@ -3665,7 +3665,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Established by Piyush Agrawal '72, Ed.S. '78, Ed.D. '79 to provide scholarship support for a UAlbany student(s) who is pursuing a degree within the School of Education. Recipients should demonstrate academic achievement, with preference given to students with financial need.  ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student(s) pursuing a degree within the School of Education"
         },
@@ -3675,7 +3675,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Veteran_Miliary.shtml",
             "Description": "Generously established by ReserveAid and Lucas Detor '94, this scholarship provides support for military veterans, Reservists and/or Guardsman (all branches of armed forces eligible) who are pursuing their undergraduate or graduate degrees at UAlbany. This scholarship has been named in honor of Polly Weidenkopf to recognize and thank her for her service to our country, and for the outstanding and compassionate work she provided in her role as Executive Director of ReserveAid.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Military veterans, Reservists and/or Guardsmen"
         },
@@ -3685,7 +3685,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Economics.shtml",
             "Description": "Established by the KPMG Disaster Relief Fund to recognize the tragic loss of 1994 graduate Taimour Kahn in the World Trade Center attack on 9/11/01, the Kahn '94 Scholarship is awarded to a freshman or sophomore undergraduate student who intends to major in economics and who demonstrates financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Student with outstanding research in economics"
         },
@@ -3695,7 +3695,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Michael F. Poppo '86, this scholarship provides support for an undergraduate or graduate student who demonstration financial need. The first preference of this scholarship is that the student recipient be of an underrepresented population.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate student who demonstration financial need. The first preference of this scholarship is that the student recipient be of an underrepresented population."
         },
@@ -3705,7 +3705,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Veteran_Miliary.shtml",
             "Description": "Established by Michael F. Poppo '86, this scholarship provides support to a veteran pursing an undergraduate or graduate degree at UAlbany.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Veteran"
         },
@@ -3755,7 +3755,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by the estate of Priscilla Ewing '46, this fund provides scholarship support to undergraduate or graduate students who demonstrate financial need, and who are pursuing a degree within the School of Business.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate students who demonstrate financial need, and who are pursuing a degree within the School of Business."
         },
@@ -3795,7 +3795,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "This fund, established by UAlbany Professor Helen Horowitz, was established to provide financial assistance to students who have no other sources of aid.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who have no other sources of aid."
         },
@@ -3805,7 +3805,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "The Professor Lakshmi Mohan Endowed Scholarship was established by Mr. Anthony McCarthy '84, in honor of ITM Professor Lakshmi Mohan. The Mohan Scholarship provides support for an undergraduate or graduate student(s) at the University at Albany who is pursuing a degree within the School of Business, with a concentration in Information Technology Management. The recipient shall demonstrate both academic achievement and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate student(s) at the University at Albany who is pursuing a degree within the School of Business, with a concentration in Information Technology Management"
         },
@@ -3815,7 +3815,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "The Professor Michael J. Malbin Washington Semester Scholarship will provide support for University at Albany students who wish to participate in Rockefeller College's Washington Semester Program.  This fund may be utilized as either a scholarship (whereas funds are applied directly to a student's account) or awarded directly to students in the form of a prize or an award.  Selection of recipients is to be based on financial need and/or academic merit. If recipient selection is based on financial need, financial need must be certified by the Office of Financial Aid and funds applied directly to recipient's account.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Students who wish to participate in Rockefeller College's Washington Semester Program"
         },
@@ -3825,7 +3825,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Professor Sanjay Goel and Jonathan'70 and Agatha Pon, this scholarship provides support for a student who is pursuing his/her degree at the University at Albany and who is working in collaboration with a School of Business faculty member. The recipient selection is based on merit, and is awarded to a student who demonstrates aptitude for research and high academic achievement.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who is pursuing his/her degree at the University at Albany and who is working in collaboration with a School of Business faculty member"
         },
@@ -3865,7 +3865,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established by Psi Gamma alumnae, this scholarship provides support to current Psi Gamma students who are either current undergraduate students or graduate students.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "current Psi Gamma students who are either current undergraduate students or graduate students."
         },
@@ -3915,7 +3915,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Veteran_Miliary.shtml",
             "Description": "The ReserveAid Veteran's Internship Program provides stipends for internships to support Reservists and/or Guardsman who have a valid DD214 discharge from the United States military. Recipients may be either undergraduate or graduate students attending UAlbany. Internship placement shall be with those companies who support the student recipient's field of study. This fund was established to provide support for veterans who have participated in the War on Terror (WoT). The War on Terror (WoT), also known as the Global War on Terrorism (GWOT), refers to the international military campaign that stated after the 11 September 2001 terrorist attached on the United States.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Veterans who have participated in the War on Terror"
         },
@@ -3955,7 +3955,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Criminal_Justice.shtml",
             "Description": "Established by Richard C. Gentilcore '66, this scholarship provides support for undergraduate or graduate students pursuing their degree through the School of Criminal Justice. Student recipient selection may be based on financial need and/or academic merit.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "undergraduate or graduate students pursuing their degree through the School of Criminal Justice."
         },
@@ -3995,7 +3995,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Art.shtml",
             "Description": "Established by Roanne Kulakoff '81, this fund provides an award recognizing student achievement in the Art Department, and funds in support of the Photography Program within the Art Department. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student in the Photography Program at UAlbany"
         },
@@ -4035,7 +4035,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "The Robert and Lynn Hassan Jones Presidential Inauguration Scholarship provides scholarship support to UAlbany students who demonstrate financial need and/or merit. Established in honor of the inauguration of Robert J. Jones as the University at Albany's 19th president, The Robert and Lynn Hassan Jones Presidential Inauguration Scholarship will help to ensure that no deserving student will ever be denied the opportunity to pursue his or her academic dreams.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate financial need and/or merit."
         },
@@ -4095,7 +4095,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "This scholarship was established by Mr. Michael Lampert '73 to provide scholarship support for students pursing degrees at UAlbany's Rockefeller College of Public Affairs & Policy. Recipients may be selected based on financial need or academic merit.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Students pursuing degrees at Rockefeller College"
         },
@@ -4115,7 +4115,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "Established by Bart E. Baum '90 MBA and Dr. Emma J. Laskin, this fund provides scholarship support to either graduate or undergraduate students who are pursuing a degree within the Rockefeller College of Public Affairs & Policy. Recipients should demonstrate academic excellence and/or financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Graduate or Undergraduate students pursing a degree within Rockefeller College"
         },
@@ -4125,7 +4125,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "Established by Vincent Abramo '67, this scholarship provides support for undergraduate or graduate students pursuing a degree at Rockefeller College of Public Affairs & Policy at the University at Albany. Recipients should demonstrate both financial need and academic achievement.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Undergraduate or graduate students pursuing a degree at Rockefeller College"
         },
@@ -4165,7 +4165,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CEAS.shtml",
             "Description": "Established by Ronald H. Smith '67, this scholarship provides support for graduate or undergraduate students pursuing their degree within UAlbany's College of Engineering & Applied Sciences. Student recipients shall be selected based on academic merit and/or financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Graduate or undergraduate students pursuing degrees in CEAS"
         },
@@ -4215,7 +4215,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Rockefeller_College.shtml",
             "Description": "Established by Dean David Rousseau and Professor Lynn Warner, this fund provides scholarship support for an undergraduate or graduate student(s) pursuing a degree at the Rockefeller College of Public Affairs & Policy. Recipients may be selected based on financial need and/or merit.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Undergraduate or graduate student in Rockefeller College"
         },
@@ -4245,7 +4245,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "The Samuels Family Achievement Scholarship, established by Steven M. Samuels '85 and Judy A. Samuels '86, provides scholarship support for UAlbany students within the School of Business who demonstrate academic excellence, financial need and service to the School of Business, University community and/or the community at large.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students within the School of Business"
         },
@@ -4275,7 +4275,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Mr. George W. Walker '70 and Mrs. Lucienne Walker, The Saratoga, Warren, Washington County Scholarship shall provide support for a student(s) pursuing a degree within the School of Business at UAlbany. The recipient(s) should demonstrate academic achievement and financial need.  First preference for this scholarship will be given to residents of Saratoga, Warren, or Washington County.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student(s) pursuing a degree within the School of Business; First preference given to residents of Saratoga, Warren, or Washington County."
         },
@@ -4305,7 +4305,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Veteran_Miliary.shtml",
             "Description": "This scholarship provides support for a military veteran(s) who is pursuing a degree in the School of Business.  The recipient should demonstrate financial need and academic achievement. First preference is that the recipient is a military veteran. If none can be identified, second preference is that the recipient is the offspring of a military veteran.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Military veteran pursuing a degree in the School of Business; second preference is offspring of a military veteran"
         },
@@ -4355,7 +4355,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "Awarded to a student enrolled in a School of Education program that leads to an initial, permanent, or professional certification in secondary teaching who demonstrates an intent and ability to teach high school.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student enrolled in a School of Education program that leads to an initial, permanent, or professional certification in secondary teaching who demonstrates an intent and ability to teach high school."
         },
@@ -4365,7 +4365,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SSW.shtml",
             "Description": "This award was established in recognition of the outstanding contributions that Professor Spellman, Dean of the School of Social Welfare from 1967-1985,  and acting chair of the Department of African and Afro-American Studies, made to the University at Albany. This award is presented to a student enrolled in the Baccalaureate Program or Master's Program in the School of Social Welfare or the Department of Africana Studies. Recipients in either the School of Social Welfare of the Department of Africana Studies should demonstrate exemplary community leadership and service.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student enrolled in the Baccalaureate Program or Master's Program in the School of Social Welfare or the Department of Africana Studies."
         },
@@ -4394,7 +4394,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_English.shtml",
             "Description": "Established in memory of Professor Shields-Mcllwaine, this award is given annually by the Department of English for the best student poem. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Best student poem in the Department of English"
         },
@@ -4404,7 +4404,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CEAS.shtml",
             "Description": "Established by Shirley Edsall AB '54, MSLS '55, this scholarship will support students in Information Studies whose goals are to work directly with library users.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "Students in Information Studies whose goals are to work directly with library users"
         },
@@ -4474,7 +4474,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Gavin '86 and Joan '86 Solotar to provide scholarship support to a UAlbany student who is pursuing a degree within the School of Business. Recipient must demonstrate both academic achievement and financial aid. First preference is that the recipient is female.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student who is pursuing a degree within the School of Business; First preference is that the recipient is female."
         },
@@ -4494,7 +4494,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SSW.shtml",
             "Description": "The South Korean Endowed Scholarship was established to advance the education, clinical skills, and career aspirations of students at UAlbany's School of Social Welfare, preferably who hail from South Korea, who demonstrate a commitment to developing innovative services to promote the well-being in the Korean community.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students at UAlbany's School of Social Welfare, preferably who hail from South Korea, who demonstrate a commitment to developing innovative services to promote the well-being in the Korean community."
         },
@@ -4504,7 +4504,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Student_Affairs.shtml",
             "Description": "Established by Marc C. Yang '92 in 2000, and affiliated with the annual Spellman Achievement Awards, this fund provides awards for students who demonstrate high levels of academic achievement and outstanding student leadership and/or community service. Preference is for the award to recognize students of African-American, Latino, Asian-American or Native-American heritage.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate high levels of academic achievement and outstanding student leadership and/or community service. Preference is for the award to recognize students of African-American, Latino, Asian-American or Native-American heritage."
         },
@@ -4614,7 +4614,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_Sociology.shtml",
             "Description": "Established by Steven Napolitano '85, The Steven Napolitano Family Scholarship provides scholarship support for a graduate or undergraduate student pursuing a degree in Sociology within UAlbany's College of Arts & Sciences. Preference is that the student recipient demonstrates financial need. ",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Graduate or undergraduate student pursuing a degree in Sociology"
         },
@@ -4654,7 +4654,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_IFW.shtml",
             "Description": "This scholarship, established by Susan Shipherd, provides support for an undergraduate or graduate student, preferably female, whose formal academic studies in the areas of science are in preparation for a career in that field.  The recipient should be in good academic standing, should demonstrate financial need and have a record of academic excellence.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "undergraduate or graduate student, preferably female, whose formal academic studies in the areas of science are in preparation for a career in that field"
         },
@@ -4704,7 +4704,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_Disability_Resource_Center.shtml",
             "Description": "Generously established by Todd G. Goldman '82, this scholarship provides support for students who utilize UAlbany's Disability Resource Center (DRC) and who demonstrate academic excellence and financial need. First preference for this scholarship is that the student recipient be an incoming junior. This scholarship may be renewed for up to two years (4 semesters).",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who utilize UAlbany's Disability Resource Center (DRC) and who demonstrate academic excellence and financial need. First preference for this scholarship is that the student recipient be an incoming junior. This scholarship may be renewed for up to two years (4 semesters)."
         },
@@ -4714,7 +4714,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "This fund was established by Towers Perrin to provide annual awards to faculty and students in support of their research in the areas of Human Resource Information Systems (HRIS) and Human Resource Management (HRM). This fund will also support the Towers Perrin Student Award. This annual award will be given to an outstanding School of Business HRIS student.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Awards to faculty and students in support of their research in the areas of Human Resource Information Systems (HRIS) and Human Resource Management (HRM)."
         },
@@ -4794,7 +4794,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Established in memory of Virginia G. Heaney '78, by the Santini and Schatmeyer families, The Virginia G. Heaney '78 Memorial Scholarship provides support for a UAlbany student who demonstrates financial need and plans to pursue a career in the medical profession and/or the healthcare field.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "Y",
             "Eligibility": "student who demonstrates financial need and plans to pursue a career in the medical profession and/or the healthcare field."
         },
@@ -4804,7 +4804,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_CAS_English.shtml",
             "Description": "Established in memory of Professor Vivian C. Hopkins, this award is made to recognize a student who demonstrates outstanding scholastic ability and character in the Department of English.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Student in the Department of English"
         },
@@ -4834,7 +4834,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_School_Education.shtml",
             "Description": "The Warren Scholarship was established by Hortense Cocharane to honor the memory of her husband, Warren Cochrane. Warren was the second African-American male to graduate from the University at Albany in 1930. Appointed to a national civil rights commission by President Carter, Warren also received the University's Distinguished Alumni Award in 1978; for his devoting his life to overcoming prejudices by his endeavors in creating and maximizing economic, social, and political opportunities for African Americans and minorities everywhere. The Cochrane Scholarship is awarded to a student enrolled in the School of Education, with preference given to a minority student.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student enrolled in the School of Education, with preference given to a minority student."
         },
@@ -4854,7 +4854,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/undergrad-research/curce-internal-funding.php",
             "Description": "Established by Mrs. Donald Biggs in memory of her father. Awarded annually to a minority student enrolled in a music major program on the basis of achievement and service to the Music Department.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Minority student enrolled in a music major program"
         },
@@ -4874,7 +4874,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SOB.shtml",
             "Description": "Established by Stephen M. Stabile '01 in memory of his classmate and friend William Bott '01, this scholarship provides support for students pursuing a degree within the School of Business. Student recipients must demonstrate both academic achievement and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students pursuing a degree within the School of Business"
         },
@@ -4914,7 +4914,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "Generously established by Peter Brusoe '03, MS '04, the William Frederick Reyers Sr. Community Service Scholarship provides support for students who demonstrate commitment of service to their community.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who demonstrate commitment of service to their community."
         },
@@ -4964,7 +4964,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_University_Wide.shtml",
             "Description": "This scholarship was established by Dr. William Roth, to provide annual scholarship support to a UAlbany student with a physical disability. Recipient should demonstrate academic promise and financial need.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "student with a physical disability"
         },
@@ -4974,7 +4974,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/uafoundation/sap_SSW.shtml",
             "Description": "Established by the estate of Dr. William Roth, this fund provides scholarship support to students at the University at Albany, who are enrolled in the School of Social Welfare, with first preference given to student with a physical disability and second preference given to students with any other disability. Student recipients should demonstrate academic achievement.",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "students who are enrolled in the School of Social Welfare, with first preference given to student with a physical disability and second preference given to students with any other disability."
         },
@@ -5004,7 +5004,7 @@
             "FundingLevel": "Check with Funding Department",
             "Website": "https://www.albany.edu/undergrad-research/curce-internal-funding.php",
             "Description": "The Women's Studies Committee started this award in 1986 to recognize an outstanding Women's Studies major or minor who has demonstrated an excellent academic record in Women's Studies and significant feminist contributions to the women's community. The time, energy, and money of the many women and men who support the University at Albany's Women's Studies Department through fundraising events and alumnae activities allow us to grant the award every year",
-            "DegreeLevel": "Any",
+            "DegreeLevel": "General",
             "STEMOnly": "N",
             "Eligibility": "Women's Studies major or minor who has demonstrated an excellent academic record in Women's Studies and significant feminist contributions to the women's community"
         },

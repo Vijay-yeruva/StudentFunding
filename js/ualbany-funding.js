@@ -21,8 +21,12 @@ request.onload = function () {
         return a.indexOf(v) === i;
     });
 
-    //Logic for sorting and replacing Research Centers at last
-    distinctDegreelevels.sort();
+    distinctDegreelevels.sort(function (a, b) {
+        if (a > b)
+            return 1;
+        else
+            return -1;
+    });
    
     //Iterating over list of degree levels
     distinctDegreelevels.forEach(function (degreelevel) {
