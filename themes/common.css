@@ -96,14 +96,12 @@ a:hover{
 }
 
 .home-banner-left-block{
-    box-sizing: content-box;
     position: absolute;
     bottom: 7%;
     left:2%;
     color:  #edba32;;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     background-color:rgba(0, 0, 0, 0.5);
-    width: 600px;
 }
 
 .home-banner-text-block {
@@ -113,10 +111,9 @@ a:hover{
     left:1%;
     color:  #edba32;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
-    max-width: 70%;
   }
 
-  .home-banner-text-block > h2 {
+  .home-banner-text-block > h1 {
     padding-top: 10px;
     padding-left: 10px;
     text-shadow: 3px 1px 2px black;
@@ -125,7 +122,6 @@ a:hover{
   .home-banner-text-block > p {
     padding-left: 10px;
     color: white;
-    font-size: 25px;
     text-shadow: 3px 1px 2px black;
   }
 
@@ -539,9 +535,21 @@ table, tr, th,td{
     }
 
     .home-banner-left-block{
-        transform: scale(1.0);
         bottom: 7%;
         left: 2%;
+        width: 60%;
+    }
+    .home-banner-text-block
+    {
+        width: 70%;
+    }
+    .home-banner-text-block>h1
+    {
+        font-size: 3.2vw;
+    }
+    .home-banner-text-block>p
+    {
+        font-size: 1.75vw;
     }
 }
 
