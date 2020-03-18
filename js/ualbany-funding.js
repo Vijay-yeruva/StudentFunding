@@ -51,7 +51,7 @@ request.onload = function () {
 
         stemawards.forEach(function(award){
             awardcontent = awardcontent + 
-            '<div class="awardinfo">' +
+            '<div class="awardinfo search-container">' +
             '   <h4 class="awardname"><a href="'+ award.Website +'" target="_blank">' + award.AwardName + '</a></h4>' +
             '   <div class="left"><i class="fas fa-calendar-day"></i> <strong>Due Date: </strong>' +  award.DueDate + '</div>' +
             '   <div class="right"><i class="fa fa-graduation-cap"></i> <strong>Degree Level: </strong>' + award.DegreeLevel + '</div>' +
@@ -76,7 +76,7 @@ request.onload = function () {
         awardcontent = '';
         nonstemawards.forEach(function(award){
             awardcontent = awardcontent + 
-            '<div class="awardinfo">' +
+            '<div class="awardinfo search-container">' +
             '   <h4 class="awardname"><a href="'+ award.Website +'" target="_blank">' + award.AwardName + '</a></h4>' +
             '   <div class="left"><i class="fas fa-calendar-day"></i> <strong>Due Date: </strong>' +  award.DueDate + '</div>' +
             '   <div class="right"><i class="fa fa-graduation-cap"></i> <strong>Degree Level: </strong>' + award.DegreeLevel + '</div>' +
@@ -88,16 +88,27 @@ request.onload = function () {
         });
         accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h3 class = "content-header-no-margin">Non-STEM-Focused Funding Opportunities</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
         
-        if(degreelevel == "General")
+        let imgpath ="../assets/images";
+        switch(degreelevel)
         {
-            degreelevel = "Funding Opportunities for All Students";
+            case "General":
+                degreelevel = "Funding Opportunities for All Students";
+                imgpath += "/hat-diploma.png"
+                break;
+            case "Graduate":
+                imgpath += "/diploma.png"
+                break;
+            case "Undergraduate":
+                imgpath += "/hat.png"
+                break;
         }
+
         //generating Id for bootstrap accordion
         let degreeId = "collapse" + degreelevelcount;
         let headingId = "heading" + degreelevelcount;
         let accordionElem = '<div class = "card"><div class="card-header" id="' + headingId + '">' +
             '<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#' + degreeId + '" aria-expanded="true" aria-controls="' + degreeId + '">' +
-            '<h2 class = "content-header-no-margin">' + degreelevel + '</h2></button></div>'
+            '<h2 class = "content-header-no-margin">' + degreelevel + '<img class = "degree-level-img" src= "'+imgpath+'"></h2></button></div>'
             + '<div id="' + degreeId + '" class = "collapse" aria-labelledby= "' + headingId + '"data-parent=""> <div class = "card-body">'
             + accordioncontent + '</div></div></div>';
         content = content + accordionElem;
