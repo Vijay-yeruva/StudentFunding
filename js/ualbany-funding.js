@@ -61,7 +61,7 @@ request.onload = function () {
             '   <p class="awarddescription"><strong>Eligibility Requirements: </strong>' + award.Eligibility + ' </p>' +
             '</div>';
         });
-        accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h3 class = "content-header-no-margin">STEM Only</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
+        accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h3 class = "content-header-no-margin">STEM-Focused Funding Opportunities</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
         
         nonstemawards = degreelevelawards.filter(function (award) {
             return award.STEMOnly == "N"
@@ -86,8 +86,12 @@ request.onload = function () {
             '   <p class="awarddescription"><strong>Eligibility Requirements: </strong>' + award.Eligibility + ' </p>' +
             '</div>';
         });
-        accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h3 class = "content-header-no-margin">Other</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
+        accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h3 class = "content-header-no-margin">Non-STEM-Focused Funding Opportunities</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
         
+        if(degreelevel == "General")
+        {
+            degreelevel = "Funding Opportunities for All Students";
+        }
         //generating Id for bootstrap accordion
         let degreeId = "collapse" + degreelevelcount;
         let headingId = "heading" + degreelevelcount;
