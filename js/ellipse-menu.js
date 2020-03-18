@@ -44,8 +44,8 @@ function clickHandler(button)
                                  desc.classList.add("embutton5");
                 break;
             case "embutton6":
-                 desc.innerHTML = "Winning an award provides significant financial support, tuition, travel "+
-                                  "support and/or more";
+                 desc.innerHTML = "Winning an award provides significant financial benefit including "+
+                                  "stipends, tuition, travel support and more.";
                                   desc.classList.add("embutton6");
                  break;
             default:

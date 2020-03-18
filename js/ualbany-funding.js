@@ -73,7 +73,7 @@ request.onload = function () {
             else
                 return -1;
         });
-
+        awardcontent = '';
         nonstemawards.forEach(function(award){
             awardcontent = awardcontent + 
             '<div class="awardinfo">' +
