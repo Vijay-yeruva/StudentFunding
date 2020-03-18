@@ -22,7 +22,7 @@ request.onload = function () {
     });
 
     distinctDegreelevels.sort(function (a, b) {
-        if (a > b)
+        if (a < b)
             return 1;
         else
             return -1;
@@ -101,6 +101,6 @@ request.onload = function () {
     });
     //Appending content to awrdsContainer
     awrdsContainer.classList.add('accordion');
-    awrdsContainer.id = 'accordionmain';
+    awrdsContainer.id = 'accordionExample';
     awrdsContainer.innerHTML = content.trim();
 }
