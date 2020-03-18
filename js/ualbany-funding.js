@@ -94,13 +94,13 @@ request.onload = function () {
         let accordionElem = '<div class = "card"><div class="card-header" id="' + headingId + '">' +
             '<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#' + degreeId + '" aria-expanded="true" aria-controls="' + degreeId + '">' +
             '<h2 class = "content-header-no-margin">' + degreelevel + '</h2></button></div>'
-            + '<div id="' + degreeId + '" class = "collapse" aria-labelledby= "' + headingId + '"data-parent="accordionMain"> <div class = "card-body">'
+            + '<div id="' + degreeId + '" class = "collapse" aria-labelledby= "' + headingId + '"data-parent=""> <div class = "card-body">'
             + accordioncontent + '</div></div></div>';
         content = content + accordionElem;
         degreelevelcount++;
     });
     //Appending content to awrdsContainer
     awrdsContainer.classList.add('accordion');
-    awrdsContainer.id = 'accordionMain';
+    awrdsContainer.id = 'accordionExample';
     awrdsContainer.innerHTML = content.trim();
 }
