@@ -43,7 +43,7 @@ request.onload = function () {
             return award.STEMOnly == "Y"
         });
         stemawards.sort(function (a, b) {
-            if (a.DueDate < b.DueDate)
+            if (a.AwardName > b.AwardName)
                 return 1;
             else
                 return -1;
@@ -68,7 +68,7 @@ request.onload = function () {
         });
    
         nonstemawards.sort(function (a, b) {
-            if (a.DueDate < b.DueDate)
+            if (a.AwardName > b.AwardName)
                 return 1;
             else
                 return -1;
@@ -83,7 +83,7 @@ request.onload = function () {
             '   <div class="left"><i class="fas fa-dollar-sign"></i> <strong>Funding Level: </strong>' + award.FundingLevel + '</div>' +
             '   <div class="right"> <br> </div>'+
             '   <p class="awarddescription"><strong>Description: </strong>'+ award.Description + ' </p>'+
-            '   <p class="awarddescription"><strong>Eligibility Requirements: </strong>' + awards.Eligibility + ' </p>' +
+            '   <p class="awarddescription"><strong>Eligibility Requirements: </strong>' + award.Eligibility + ' </p>' +
             '</div>';
         });
         accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h3 class = "content-header-no-margin">Other</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';

@@ -3,12 +3,12 @@
     overflow: hidden;
     padding: 0 0 0 50px;
     width: 100%;
-    border-bottom: 1px solid #45166a; 
+    border-bottom: 1px solid black; 
     text-shadow: 1px 1px 1px black;
   }
 
   .tab>a{
-    background: #46166b;
+    background: #8d6507;
     float: left;
     cursor: pointer;
     transition: 0.3s;
@@ -17,17 +17,17 @@
     border-radius: 8px 8px 0 0;
     width: 160px;
     height:50px;
-    color:#edba32;;
+    color:white;
     text-align: center;
     padding: 5px 5px 5px 5px;
-    border: 1px solid #46166b;
+    border: 1px solid black;
     border-bottom: none;
     font-weight: bold;
     line-height: 18px;
   }
 
   .tab > a:hover{
-    background: #582183;
+    background: #b9850a;
     color:white;
     text-decoration: none;
   }
@@ -42,11 +42,11 @@
   .tabcontent{
       padding: 20px 0 0 0;
       height:80%;
-      border: 1px solid #45166a; 
+      border: 1px solid black; 
       box-sizing: content-box;
       border-image:linear-gradient(
       to bottom, 
-      #45166a, 
+      black, 
       #00000000
     ) 1 100%;
   }
