@@ -1,7 +1,10 @@
 window.onload = function(){
     //getting accordion-headers to add click event
     let accordions = document.getElementsByClassName('accordion-header');
-
+    if(accordions.length == 0)
+    {
+        this.location.reload(true);
+    }
     let hideshowfunction = function(){  
         //logic for checking display of content
         if(this.nextElementSibling.style.display != "block")
