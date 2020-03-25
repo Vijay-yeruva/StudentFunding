@@ -350,6 +350,15 @@ address>a:hover {
     color: #000000;
 }
 
+.margin-bottom{
+    margin-bottom: 10px;
+}
+
+.char-list{
+    list-style: lower-alpha;
+    padding: 0 0 0 20px;
+}
+
 .num-list{
     list-style: decimal;
     padding: 0 0 0 90px;
