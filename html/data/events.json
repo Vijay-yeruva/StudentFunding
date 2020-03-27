@@ -1,0 +1,66 @@
+﻿{
+    "events": [
+        {
+            "Title": "Personal Statement Writing for Graduate School & Funding Applications",
+            "Purpose": "for masters students interested in applying to doctoral programs",
+            "When": "Wednesday, April 1st, 11:00 am - 12:00 pm ",
+            "Where": "Webinar link will be shared for registered students",
+            "Link": "https://admissions.albany.edu/register/PersonalStatementSpr20a"
+        },
+        {
+            "Title": "Personal Statement Writing for Graduate School & Funding Applications",
+            "Purpose": "for masters students interested in applying to doctoral programs",
+            "When": "Wednesday, April 1st, 5:00 - 6:00 pm",
+            "Where": "Webinar link will be shared for registered students",
+            "Link": "https://admissions.albany.edu/register/2020PersonalStatement"
+        },
+        {
+            "Title": "Finding Funding for Graduate School",
+            "Purpose": "for masters students interested in applying to doctoral programs",
+            "When": "Wednesday, April 8th, 11:00 am - 12:00 pm",
+            "Where": "Webinar link will be shared for registered students",
+            "Link": "https://admissions.albany.edu/register/FundingGradSpr20a",
+            "Description": "This workshop will provide best practices to help you secure funding (living stipend and tuition scholarship) for graduate school."
+        },
+        {
+            "Title": "Finding Funding for Graduate School",
+            "Purpose": "for masters students interested in applying to doctoral programs",
+            "When": "Wednesday, April 8th, 5:00 - 6:00 pm",
+            "Where": "Webinar link will be shared for registered students",
+            "Link": "https://admissions.albany.edu/register/FundingGradSchoolSpr20b",
+            "Description": "This workshop will provide best practices to help you secure funding (living stipend and tuition scholarship) for graduate school."
+        },
+        {
+            "Title": "NSF Graduate Research Fellowship ($138,000 to pursue a master's or PhD) Overview ",
+            "Purpose": "for masters students interested in applying to doctoral programs",
+            "When": "Wednesday, April 15th, 11:00 am - 12:00 pm",
+            "Where": "Webinar link will be shared for registered students",
+            "Link": "https://admissions.albany.edu/register/NSFFellowshipSpr20a",
+            "Description": "This workshop will provide an introduction to the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) and best practices for applicants. Applicants must be U.S. citizens, nationals, or permanent residents in their final year of undergraduate or first two years of (all) graduate study. Each Fellowship consists of three years of support during a five-year fellowship period. Currently, NSF provides a stipend of $34,000 to the Fellow and a cost-of-education allowance of $12,000 to the graduate degree-granting institution for each Fellow who uses the fellowship support in a fellowship year."
+        },
+        {
+            "Title": "NSF Graduate Research Fellowship ($138,000 to pursue a master's or PhD) Overview ",
+            "Purpose": "for masters students interested in applying to doctoral programs",
+            "When": "Wednesday, April 15th, 5:00 - 6:00 pm",
+            "Where": "Webinar link will be shared for registered students",
+            "Link": "https://admissions.albany.edu/register/NSFFellowshipSpr20b",
+            "Description": "This workshop will provide an introduction to the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP) and best practices for applicants. Applicants must be U.S. citizens, nationals, or permanent residents in their final year of undergraduate or first two years of (all) graduate study. Each Fellowship consists of three years of support during a five-year fellowship period. Currently, NSF provides a stipend of $34,000 to the Fellow and a cost-of-education allowance of $12,000 to the graduate degree-granting institution for each Fellow who uses the fellowship support in a fellowship year."
+        },
+        {
+            "Title": "NSF Graduate Research Fellowship Essay Writing",
+            "Purpose": "for masters students interested in applying to doctoral programs",
+            "When": "Wednesday, April 22nd, 11:00 am - 12:00 pm ",
+            "Where": "Webinar link will be shared for registered students",
+            "Link": "https://admissions.albany.edu/register/NSFFellowEssaySpr20a",
+            "Description": "This workshop will provide best practices for writing the essays for the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP). Applicants must be U.S. citizens, nationals, or permanent residents in their final year of undergraduate or first two years of (all) graduate study. Each Fellowship consists of three years of support during a five-year fellowship period. Currently, NSF provides a stipend of $34,000 to the Fellow and a cost-of-education allowance of $12,000 to the graduate degree-granting institution for each Fellow who uses the fellowship support in a fellowship year."
+        },
+        {
+            "Title": "NSF Graduate Research Fellowship Essay Writing",
+            "Purpose": "for masters students interested in applying to doctoral programs",
+            "When": "Wednesday, April 22nd, 5:00 - 6:00 pm",
+            "Where": "Webinar link will be shared for registered students",
+            "Link": "https://admissions.albany.edu/register/NSFFellowEssaySpr20b",
+            "Description": "This workshop will provide best practices for writing the essays for the National Science Foundation (NSF) Graduate Research Fellowship Program (GRFP). Applicants must be U.S. citizens, nationals, or permanent residents in their final year of undergraduate or first two years of (all) graduate study. Each Fellowship consists of three years of support during a five-year fellowship period. Currently, NSF provides a stipend of $34,000 to the Fellow and a cost-of-education allowance of $12,000 to the graduate degree-granting institution for each Fellow who uses the fellowship support in a fellowship year."
+        }
+    ]
+}

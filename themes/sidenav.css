@@ -16,7 +16,7 @@ Primary use:    sidenav.css file used for styling side navigationbar
 
 .navigation-item {
     border-bottom: 2px solid #909090;
-    color: #46166B;
+    color: #000000;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     font-size: 20px;
     font-weight: 400;
@@ -32,6 +32,9 @@ Primary use:    sidenav.css file used for styling side navigationbar
 
 .navigation-item > a ,.navigation-sub-item > a{
     color: #000000;
+    display: block;
+    width: 100%;
+    height: auto;
   }
 
 .navigation-item:hover > a {
