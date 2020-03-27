@@ -17,11 +17,13 @@
     width: 100%;
     background: #edba32;
     padding: 15px;
+    text-align: left;
 }
 
 .event-info{
     color:black;
     margin-left: 15px;
+    display: block;
 }
 
 .register-button{

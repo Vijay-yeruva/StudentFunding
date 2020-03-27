@@ -6,18 +6,13 @@ mainContent.addEventListener('click', function(e){
             
             if(currentaccordion.nextElementSibling.style.display != "block")
 	        {
-                //if content is invisible, set other open content's display to none
-                for (let i = 0; i < accordions.length; i++) {
-                    accordions[i].nextElementSibling.style.display = "none";      
-                }
                 //setting current content display to block to show content
                 currentaccordion.nextElementSibling.style.display = "block";
+            }      
+            //If content is not hidden, changing the display property to none to hide content
+            else if(currentaccordion.nextElementSibling.style.display == "block")
+            {
+                currentaccordion.nextElementSibling.style.display = "none";
             }
-    
-	    //If content is not hidden, changing the display property to none to hide content
-        else if(currentaccordion.nextElementSibling.style.display == "block")
-	    {
-            currentaccordion.nextElementSibling.style.display = "none";
-        }
     }
  })
