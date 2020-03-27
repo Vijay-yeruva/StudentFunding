@@ -11,6 +11,10 @@
     margin-top: 15px;
 }
 
+.event-box > button:focus{
+    outline: none;
+}
+
 .event-title{
     color: black;
     display: block;
@@ -37,3 +41,4 @@
     margin-bottom: 15px;
     margin-left: 15px;
 }
+
