@@ -1,7 +1,9 @@
-.num-list{
+.dot-list{
     padding: 0 0 0 20px;
+    margin-left: 0;
+    list-style-position: outside;
 }
 
-.num-list>li{
-    padding: 0 0 0 10px;
+.dot-list>li{
+    white-space:normal;
 }
