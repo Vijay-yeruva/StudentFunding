@@ -15,9 +15,9 @@ request.onload = function () {
         content = content + 
         '<div class = "col-sm-6 col-md-6 col-lg-6 col-xl-6 no-padding-left">'+
         '   <div class = "event-box">'+
-        '       <button class="event-title"><h4><span class="spanbold">' + event.Title +'</span><br>('+
+        '       <button class="event-title"><h4 class="title_text"><span class="spanbold">' + event.Title +'</span><br>('+
         event.Purpose +
-        '       )</h4></button>' +
+        '       )</h4><img class="title_icon" src="../assets/images/'+event.image+ '"/></button>' +
         '       <div class="event-info"><p><span class = "spanbold">When: </span>'+ event.When+'</p>'+
         '       <p><span class = "spanbold">Where: </span>'+ event.Where+'</p>';
         if(event.hasOwnProperty('Description'))
