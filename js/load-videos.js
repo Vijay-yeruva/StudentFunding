@@ -13,11 +13,11 @@ request.onload = function () {
 
     videos.forEach(function(video){
         content = content + 
-        '<div class="col-sm-6 col-md-6 col-lg-6 col-xl-6 add-margin-bottom">'+
-        '   <h4 class="spanbold">' + video.Title + '</h4>'+
+        '<div class="col-sm-6 col-md-6 col-lg-6 col-xl-6 video-padding-margin">'+
         '   <div class="videoWrapper">' + 
         '       <iframe src="' + video.Link + '"></iframe>' +
         '   </div>' +
+        '   <h5 class="spanbold">' + video.Title + '</h5>'+
         '</div>';
     }); 
     videosContainer.innerHTML = content.trim();
