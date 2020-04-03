@@ -28,7 +28,8 @@
 
 .agency-title{
     font-weight: bold;
-    padding: 10px;
+    font-size: 30px;
+    padding: 20px 0 0 10px;
     text-transform: uppercase;
     display: block;
 }
