@@ -33,13 +33,12 @@
 .register-button{
     display: block;
     width: 30%;
-    background-color: #382804;
+    background-color: #46166b;
     color: white;
     padding: 10px;
     border: 1px solid black;
     border-radius: 2%;
     margin-bottom: 15px;
-    margin-left: 15px;
 }
 
 .title_text{

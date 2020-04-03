@@ -29,7 +29,7 @@ Primary use:    academic-programs.css file used for styling content
 
 button.btn-link, button.btn-link > .content-header-no-margin{
     color: white;
-    background-color: #8d6507;
+    background-color: #46166b;
     margin-bottom: 0px;
 }
 
@@ -52,12 +52,12 @@ button.btn-link:hover, button.btn-link > .content-header-no-margin:hover{
 }
 
 .card-header{
-    color: #8d6507;
+    color: #46166b;
     padding: 0px;
     border-radius: 1%;
 }
 
 .card-header:hover{
     color: white;
-    background-color: #8d6507;
+    background-color: #46166b;
 }
