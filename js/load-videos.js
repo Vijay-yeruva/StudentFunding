@@ -35,7 +35,7 @@ request.onload = function () {
         });
 
         let agencycontent = '';
-        let icon = '';
+        let logo = '';
         agencyvideos.forEach(function(video){
             agencycontent = agencycontent +
             '<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 video-padding-margin">'+
@@ -44,13 +44,13 @@ request.onload = function () {
             '   </div>' +
             '   <h5 class="video-title">' + video.Title + '</h5>'+
             '</div>';
-            icon = video.Icon;
+            logo = video.logo;
         });
         finalcontent = finalcontent + 
         '<div class= "videos-container">'+
         '   <div class="videos-header">'+
-        '       <h4 class="agency-title">'+agency+'</h4>'+
-        '       <img class="videos-icon" src="../assets/images/'+icon +'" alt=""/>' +
+        '       <div class="agency-logo"><img src="../assets/logos/'+logo +'" alt=""/></div>' +
+        '       <div class="agency-title"><h4>'+agency+'</h4></div>'+
         '   </div>'+
         '   <div class="row videos-body">'+
         agencycontent +

@@ -6,7 +6,7 @@
   }
 
   .tab>a{
-    background:transparent;
+    background:#46166b;
     float: left;
     cursor: pointer;
     transition: 0.3s;
@@ -14,24 +14,29 @@
     margin: 0 5px 0 0;
     width: 160px;
     height:50px;
-    color:black;
+    color:#ffffff;
     text-align: center;
     padding: 5px 5px 5px 5px;
     font-weight: bold;
     line-height: 18px;
     border: 1px solid #f5f5f5;
+    text-shadow: 2px 2px 2px black;
   }
 
   .tab > a:hover{
-    border: 1px solid #e6e6e6;
+    border: 1px solid black;
+    background:#6b2a9c;
+    border-bottom: none;
     text-decoration: none;
   }
 
   #tab-selected {
-    background:#46166b;
-    color:#ffffff;
+    background:#edba32;
+    color:black;
     font-weight: bold;
-    text-shadow: 2px 2px 2px black;
+    border: 1px solid black;
+    border-bottom: none;
+    text-shadow:none;
   }
 
   .tabcontent{

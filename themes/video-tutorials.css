@@ -18,20 +18,23 @@
 
 .videos-header{
     position: relative;
-    color: black;
+    color: white;
     display: block;
-    background: #edba32;
-    text-align: left;
+    background: #45166a;
     box-sizing: content-box;
-    height: 82px;
+    height: 62px;
 }
 
 .agency-title{
+    position: relative;
+    float: left;
+    display: block;
+}
+
+.agency-title > h4{
     font-weight: bold;
     font-size: 30px;
-    padding: 20px 0 0 10px;
-    text-transform: uppercase;
-    display: block;
+    padding: 10px 0 0 10px;
 }
 
 .video-title{
@@ -41,11 +44,15 @@
     width: 90%;
 }
 
-.videos-icon{
-    position: absolute;
-    top:0;
-    right: 0;
-    height: 82px;
+.agency-logo {
+    position: relative;
+    float: left;
+    display: block;
+    padding: 10px;
+}
+
+.agency-logo > img{
+    height: 50px;
     width: auto;
 }
 
