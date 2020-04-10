@@ -3,6 +3,11 @@
     color: white;
     font-weight: bold;
     text-shadow: 2px 2px 2px black;
+    margin-right: 1rem;
+}
+
+.nav-link > img{
+    height: 40px;
     margin-right: 5px;
 }
 
