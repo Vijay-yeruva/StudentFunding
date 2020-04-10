@@ -2,7 +2,7 @@
  .tab{
     overflow: hidden;
     margin: 0 0 0 50px;
-    border-bottom: 1px solid #818181; 
+    border-bottom: 0.5px solid #818181; 
   }
 
   .tab>a{
@@ -19,17 +19,16 @@
     padding: 5px 5px 5px 5px;
     font-weight: bold;
     line-height: 18px;
-    border: 1px solid #f5f5f5;
     border-top-left-radius: .25rem;
     border-top-right-radius: .25rem;
     text-shadow: 2px 2px 2px black;
   }
 
   .tab > a:hover{
-    border: 1px solid black;
-    background:#6b2a9c;
-    border-bottom: none;
+    background:#edba32;
+    color:black;
     text-decoration: none;
+    text-shadow:none;
   }
 
   #tab-selected {
@@ -45,13 +44,7 @@
       margin: 0 0 0 50px;
       padding: 20px 20px 0 20px;
       height:80%;
-      border: 1px solid #818181; 
       box-sizing: content-box;
-      border-image:linear-gradient(
-      to bottom, 
-      #818181, 
-      #00000000
-    ) 1 100%;
   }
 
 .road-map-menu{

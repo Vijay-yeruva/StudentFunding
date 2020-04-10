@@ -36,6 +36,12 @@
    outline: none;
 }
 
+.ellipse-menu-button:hover{
+    color: black;
+    background-color: #edba32;
+    text-shadow:none;
+}
+
 .clicked {
     color: black;
     background-color: #edba32;
