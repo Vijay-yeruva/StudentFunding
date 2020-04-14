@@ -39,6 +39,10 @@
     padding: 10px;
 }
 
+.nav-tabs .nav-item{
+    width: 230px;
+}
+
 .link{
     color: #46166C;
     text-decoration: underline;

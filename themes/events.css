@@ -41,6 +41,13 @@
     margin-bottom: 15px;
 }
 
+.register-button:hover{
+    background-color:#edba32;
+    color: black;
+    text-shadow:none;
+    text-decoration: none;
+}
+
 .title_text{
     width: 80%;
     float: left;

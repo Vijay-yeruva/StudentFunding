@@ -24,6 +24,10 @@
     text-shadow:none;
 }
 
+.nav-pills .nav-item{
+    width: 370px;
+}
+
 .nav-tabs .nav-link{
     background-color: #46166C;
     color: white;
@@ -45,6 +49,10 @@
     background-color:#edba32;
     color: black;
     text-shadow:none;
+}
+
+.nav-tabs .nav-item{
+    width: 200px;
 }
 
 .sub-tab .tab-pane{
