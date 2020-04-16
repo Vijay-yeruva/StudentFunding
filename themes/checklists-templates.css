@@ -27,7 +27,7 @@
 }
 
 .nav-pills .nav-item{
-    width: 370px;
+    min-width: 370px;
     margin-right: 10px;
 }
 
