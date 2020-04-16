@@ -53,11 +53,11 @@
 .tile >a{
     color: white;
     display: block;
-    margin-top: 80px;
-    font-size: 40px;
+    margin-top: 20px;
+    font-size: 30px;
     font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
     text-transform: capitalize;
-    line-height: 40px;
+    line-height: 35px;
     text-shadow: 3px 1px 2px black;
 }
 
@@ -65,4 +65,27 @@
     width: 50px;
     height: 50px;
     float: right;
+}
+
+.tile-logo{
+    height: 100px;
+    margin-bottom: 15px;
+    transition: all .15s ease-in-out;
+}
+
+.tile-logo-container{
+    width: 100%;
+    text-align: center;
+}
+
+.tile-logo-container:hover{
+    cursor: pointer;
+}
+
+.tile-logo-container:hover > .tile-logo{
+    transform: scale(1.15);
+}
+
+.tile-logo-container:hover > p{
+    text-decoration: underline;
 }
