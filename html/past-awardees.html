@@ -6,13 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="https://www.albany.edu/sites/default/files/favicon_0.ico"
         type="image/vnd.microsoft.icon">
-        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
         <link rel="stylesheet" href="../themes/bootstrap/css/bootstrap-reboot.min.css">
         <link rel="stylesheet" href="../themes/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="../themes/bootstrap/css/bootstrap-grid.min.css">
         <link rel="stylesheet" href="../themes/common.css" />
         <link rel="stylesheet" href="../themes/sidenav.css" />
-        <link rel="stylesheet" href="../themes/events.css"/>
+        <link rel="stylesheet" href="../themes/past-awardees.css"/>
     <title>
         Fellowships Navigator | University at Albany
     </title>
@@ -49,19 +49,23 @@
                     <li class="navigation-item"><a href="../index.html">HOME</a></li>
                     <li class="navigation-item"><a href="welcome.html">WELCOME</a></li>
                     <li class="navigation-item"><a href="why.html">WHY FELLOWSHIPS ARE IMPORTANT</a></li>
-                    <li class="navigation-item"><a href="awards-funding.html">AWARDS &amp; FUNDING</a></li>
+                    <li class="navigation-item active-page"><a href="awards-funding.html">AWARDS &amp; FUNDING</a></li>
+                    <li class="navigation-sub-item"><a href="ualbany-awards.html">UAlbany Funding</a></li>
+                    <li class="navigation-sub-item"><a href="major-awards.html">Major Awards</a></li>
+                    <li class="navigation-sub-item"><a href="other-funding.html">Other Prestigious Awards</a></li>
+                    <li class="navigation-sub-item"><a href="searchable-databases.html">Searchable Databases</a></li>
                     <li class="navigation-item"><a href="identify-goals.html">HOW TO WIN</a></li>
-                    <li class="navigation-item active-page"><a href="events.html">EVENTS</a></li>
+                    <li class="navigation-item"><a href="events.html">EVENTS</a></li>
                     <li class="navigation-item"><a href="meet-your-research-admin.html">MEET YOUR RESEARCH ADMINISTRATOR</a></li>
                     <li class="navigation-item"><a href="past-awardees.html">PAST AWARDEES</a></li>
                 </ul>
             </div>
             <div class="main-content col-sm-12 col-md-6 col-lg-8 col-xl-9">
                 <h2 class="content-header">
-                    EVENTS
+                    PAST AWARDEES
                 </h2>
-                <div class = "event-container display-flex row">
-                   
+                <div id="content-awardees">
+
                 </div>
             </div>
         </div>
@@ -131,6 +135,10 @@
             <p>© 2019&nbsp;University at Albany</p>
         </section>
     </footer>
-    <script src = "../js/events.js"></script>
+    <script src= "../libraries/ajax/libs/jquery-3.3.1.slim.min.js"></script>
+    <script src= "../libraries/bootstrap/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous" async></script>
+    <script src = "../js/load-past-awardees.js"></script>
 </body>
+
 </html>
