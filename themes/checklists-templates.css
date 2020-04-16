@@ -68,6 +68,10 @@
     padding: 0 0 0 25px;
 }
 
+.check-list{
+    padding-left: 0px;
+}
+
 .link{
     color: #46166C;
     text-decoration: underline;
