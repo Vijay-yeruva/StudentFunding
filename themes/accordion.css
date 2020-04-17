@@ -26,6 +26,8 @@ button.btn-link, button.btn-link > .content-header-no-margin{
     color: white;
     background-color: #46166b;
     margin-bottom: 0px;
+    font-weight: bold;
+    text-transform: uppercase;
 }
 
 button.btn-link{
