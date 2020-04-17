@@ -66,6 +66,12 @@
     padding: 0 0 0 20px;
 }
 
+.circle-list{
+    list-style: circle;
+    padding: 0 0 0 25px;
+    list-style-position: inside;
+}
+
 .none-list{
     list-style-type: none;
     padding: 0 0 0 25px;
