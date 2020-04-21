@@ -22,3 +22,17 @@
 .award-details{
     padding-bottom: 10px;
 }
+
+.email{
+    color: #46166C;
+    font-style: italic;
+}
+
+.email:before{
+    content:"";
+}
+
+.content-line{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}

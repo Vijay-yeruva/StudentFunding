@@ -21,12 +21,13 @@ request.onload = function () {
                   '     <h4 class="name">'+ awardee.FirstName + ' '+ awardee.LastName +'</h4>'+
                   '     <div class="award-details display-flex">'+
                   '         <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6 pl-0">'+
-                  '             <strong>Award: </strong>'+ awardee.Award +'<br>'+
-                  '             <i class="fas fa-dollar-sign"></i> <strong>Funding Amount: </strong>'+ awardee.FundingAmount +'<br>'+
+                  '             <span class="content-line"><strong>Award: </strong>'+ awardee.Award +'</span><br>'+
+                  '             <span class="content-line"><i class="fas fa-dollar-sign"></i> <strong>Funding Amount: </strong>'+ awardee.FundingAmount +'</span><br>'+
+                  '             <span class="content-line"><i class="fas fa-medal"></i> <strong>Award Received Year: </strong></span><br>'+
                   '         </div>'+
                   '         <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">'+
-                  '             <i class="fas fa-book"></i> <strong>Field Of Study: </strong>'+ awardee.FieldofStudy +'<br>'+
-                  '             <i class="far fa-envelope"></i> <strong>Email: </strong>'+ awardee.Email+'<br>'+
+                  '             <span class="content-line"><i class="fas fa-book"></i> <strong>Field Of Study: </strong>'+ awardee.FieldofStudy +'</span><br>'+
+                  '             <span class="content-line"><i class="far fa-envelope"></i> <strong>Email: </strong><a class="email" href="mailto:'+ awardee.Email+'" target="_blank">'+ awardee.Email +'</a></span><br>'+
                   '         </div>'+
                   '     </div>'+
                   '</div></div>'; 
