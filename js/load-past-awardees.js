@@ -21,9 +21,9 @@ request.onload = function () {
                   '     <h4 class="name">'+ awardee.FirstName + ' '+ awardee.LastName +'</h4>'+
                   '     <div class="award-details display-flex">'+
                   '         <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6 pl-0">'+
-                  '             <span class="content-line"><strong>Award: </strong>'+ awardee.Award +'</span><br>'+
+                  '             <span class="content-line"><i class="fas fa-medal"></i><strong>Award: </strong>'+ awardee.Award +'</span><br>'+
                   '             <span class="content-line"><i class="fas fa-dollar-sign"></i> <strong>Funding Amount: </strong>'+ awardee.FundingAmount +'</span><br>'+
-                  '             <span class="content-line"><i class="fas fa-medal"></i> <strong>Award Received Year: </strong></span><br>'+
+                  '             <span class="content-line"><i class="fas fa-calendar-alt"></i> <strong>Award Received Year: </strong></span><br>'+
                   '         </div>'+
                   '         <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">'+
                   '             <span class="content-line"><i class="fas fa-book"></i> <strong>Field Of Study: </strong>'+ awardee.FieldofStudy +'</span><br>'+
