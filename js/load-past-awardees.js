@@ -23,10 +23,10 @@ request.onload = function () {
                   '         <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6 pl-0">'+
                   '             <span class="content-line"><i class="fas fa-medal"></i><strong>Award: </strong>'+ awardee.Award +'</span><br>'+
                   '             <span class="content-line"><i class="fas fa-dollar-sign"></i> <strong>Funding Amount: </strong>'+ awardee.FundingAmount +'</span><br>'+
-                  '             <span class="content-line"><i class="fas fa-calendar-alt"></i> <strong>Award Received Year: </strong></span><br>'+
+                  '             <span class="content-line"><i class="fas fa-calendar-alt"></i> <strong>Award Received Year: </strong>'+ awardee.ReceivedYear+'</span><br>'+
                   '         </div>'+
                   '         <div class="col-sm-12 col-md-12 col-lg-12 col-xl-6">'+
-                  '             <span class="content-line"><i class="fas fa-book"></i> <strong>Field Of Study: </strong>'+ awardee.FieldofStudy +'</span><br>'+
+                  '             <span class="content-line"><i class="fas fa-book"></i> <strong>Field of Study: </strong>'+ awardee.FieldofStudy +'</span><br>'+
                   '             <span class="content-line"><i class="far fa-envelope"></i> <strong>Email: </strong><a class="email" href="mailto:'+ awardee.Email+'" target="_blank">'+ awardee.Email +'</a></span><br>'+
                   '         </div>'+
                   '     </div>'+

@@ -10,7 +10,8 @@ request.onload = function () {
     let events =  ((false || !!document.documentMode))? JSON.parse(eventsjson).events: eventsjson.events;
     
     let content = '';
-    upcommingevents = events.filter(function (event) {
+
+    pastevents = events.filter(function (event) {
         let when = event.When.split(",")[1];
         var month = getmonth(when.trim().split(" ")[0]);
         var day = (when.trim().split(" ")[1]);
@@ -19,10 +20,11 @@ request.onload = function () {
         eventdate.setMonth(month);
         eventdate.setDate(day);
         var today = new Date();
-        return eventdate >= today;
+        return eventdate < today;
     });
 
-    upcommingevents.forEach(function(event){
+
+    pastevents.forEach(function(event){
         content = content + 
         '<div class = "col-sm-6 col-md-6 col-lg-6 col-xl-6 no-padding-left">'+
         '   <div class = "event-box">'+
@@ -35,7 +37,7 @@ request.onload = function () {
         {
             content = content +  '<p><span class = "spanbold">Description: </span>'+ event.Description+'</p>';
         }
-        content = content + '       <div class = "register-button"><a href="'+ event.Link +'" target="_blank">Register</a></div></div>'+
+        content = content + '      </div>'+
         '   </div>' +
         '</div>';
     }); 
