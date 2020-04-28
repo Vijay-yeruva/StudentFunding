@@ -86,7 +86,7 @@ request.onload = function () {
             '   <p class="awarddescription"><strong>Eligibility Requirements: </strong>' + award.Eligibility + ' </p>' +
             '</div>';
         });
-        accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h3 class = "content-header-no-margin">Non-STEM-Focused Funding Opportunities</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
+        accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h4 class = "content-header-no-margin">Non-STEM-Focused Funding Opportunities</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
         
         let imgpath ="../assets/images";
         switch(degreelevel)
@@ -108,7 +108,7 @@ request.onload = function () {
         let headingId = "heading" + degreelevelcount;
         let accordionElem = '<div class = "card"><div class="card-header" id="' + headingId + '">' +
             '<button class="btn btn-link" type="button" data-toggle="collapse" data-target="#' + degreeId + '" aria-expanded="true" aria-controls="' + degreeId + '">' +
-            '<h2 class = "content-header-no-margin">' + degreelevel + '<img class = "degree-level-img" src= "'+imgpath+'"></h2></button></div>'
+            '<h3 class = "content-header-no-margin">' + degreelevel + '<img class = "degree-level-img" src= "'+imgpath+'"></h2></button></div>'
             + '<div id="' + degreeId + '" class = "collapse" aria-labelledby= "' + headingId + '"data-parent=""> <div class = "card-body">'
             + accordioncontent + '</div></div></div>';
         content = content + accordionElem;

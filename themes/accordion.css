@@ -58,3 +58,7 @@ button.btn-link:hover, button.btn-link > .content-header-no-margin:hover{
     color: white;
     background-color: #46166b;
 }
+
+.content-header-no-margin{
+    font-family: 'TradeGothicLTStd-BdCn20', Helvetica, Arial, sans-serif;
+}
