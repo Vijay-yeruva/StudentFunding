@@ -1,6 +1,16 @@
 {
     "pastawardees": [
         {
+            "Award": "NSF Doctoral Dissertation Research Improvement Awards",
+            "LastName": "Luo",
+            "FirstName": "Zhifan",
+            "FieldofStudy": "The Differential Influence of Three Types of Elites",
+            "Email": "zluo2@albany.edu",
+            "Photo": "luo-zhifan",
+            "ReceivedYear": "2020",
+            "FundingAmount": "$15,461"
+        },
+        {
             "Award": "NSF GRFP",
             "LastName": "Sussman",
             "FirstName": "Heather",
@@ -11,34 +21,14 @@
             "FundingAmount": "Award offered but declined by Heather since she will be accepting another fellowship from the Geospatial Research Laboratory"
         },
         {
-            "Award": "NSF GRFP",
-            "LastName": "Findlay",
-            "FirstName": "Ernesto",
-            "FieldofStudy": "Geosciences - Climate and Large-Scale Atmospheric Dynamics",
-            "Email": "efindlay@albany.edu",
-            "Photo": "findlay-ernesto",
-            "ReceivedYear": "2016",
-            "FundingAmount": "$46,000 each year"
-        },
-        {
-            "Award": "NSF GRFP",
-            "LastName": "Massmann",
-            "FirstName": "Adam Kimball",
-            "FieldofStudy": "Geosciences - Physical and Dynamic Meteorology",
-            "Email": "akm2203@columbia.edu",
-            "Photo": "massmann-adam-kimball",
-            "ReceivedYear": "2015",
-            "FundingAmount": "$46,000 each year"
-        },
-        {
-            "Award": "NIH F31-Pre-Doctoral Fellowship",
-            "LastName": "Blatt",
-            "FirstName": "Patrick",
-            "FieldofStudy": "Regulated RNA degradation is required for Drosophila oogenesis",
-            "Email": "pblatt@albany.edu",
-            "Photo": "blatt-patrick",
-            "ReceivedYear": "2017",
-            "FundingAmount": "$57,224"
+            "Award": "NSF Doctoral Dissertation Research Improvement Awards",
+            "LastName": "Li",
+            "FirstName": "Muyang",
+            "FieldofStudy": "Negotiation between State and Individuals through Social Media",
+            "Email": "mli2@albany.edu",
+            "Photo": "li-muyang",
+            "ReceivedYear": "2019",
+            "FundingAmount": "$14,831"
         },
         {
             "Award": "NIH F31-Pre-Doctoral Fellowship",
@@ -51,16 +41,6 @@
             "FundingAmount": "$72,560"
         },
         {
-            "Award": "NIH F31-Pre-Doctoral Fellowship",
-            "LastName": "Wemm",
-            "FirstName": "Stephanie",
-            "FieldofStudy": "The impact of stress on steroid hormones and cue reactivity in smokers and gamblers",
-            "Email": "swemm@albany.edu",
-            "Photo": "wemm-stephanie",
-            "ReceivedYear": "2015",
-            "FundingAmount": "$45,542"
-        },
-        {
             "Award": "NIH F32-Post Doc Fellowship",
             "LastName": "Desantis",
             "FirstName": "Kara",
@@ -69,6 +49,46 @@
             "Photo": "desantis-kara",
             "ReceivedYear": "2018",
             "FundingAmount": "$121,864"
+        },
+        {
+            "Award": "NSF Doctoral Dissertation Research Improvement Awards",
+            "LastName": "Nunez-Cortes",
+            "FirstName": "Yajaira",
+            "FieldofStudy": "The Emergence of Social Complexity",
+            "Email": "ynunez-cortes@albany.edu",
+            "Photo": "nunez-cortes-yajaira",
+            "ReceivedYear": "2018",
+            "FundingAmount": "$25,175"
+        },
+        {
+            "Award": "NIH F31-Pre-Doctoral Fellowship",
+            "LastName": "Blatt",
+            "FirstName": "Patrick",
+            "FieldofStudy": "Regulated RNA degradation is required for Drosophila oogenesis",
+            "Email": "pblatt@albany.edu",
+            "Photo": "blatt-patrick",
+            "ReceivedYear": "2017",
+            "FundingAmount": "$57,224"
+        },
+        {
+            "Award": "NSF Doctoral Dissertation Research Improvement Awards",
+            "LastName": "Holdsworth",
+            "FirstName": "Elizabeth",
+            "FieldofStudy": "Biological and Cultural Influences on Infant Stress Response Development",
+            "Email": "eholdsworth@albany.edu",
+            "Photo": "holdsworth-elizabeth",
+            "ReceivedYear": "2017",
+            "FundingAmount": "$22,880"
+        },
+        {
+            "Award": "NSF GRFP",
+            "LastName": "Findlay",
+            "FirstName": "Ernesto",
+            "FieldofStudy": "Geosciences - Climate and Large-Scale Atmospheric Dynamics",
+            "Email": "efindlay@albany.edu",
+            "Photo": "findlay-ernesto",
+            "ReceivedYear": "2016",
+            "FundingAmount": "$46,000 each year"
         },
         {
             "Award": "NIH F32-Post Doc Fellowship",
@@ -82,36 +102,6 @@
         },
         {
             "Award": "NSF Doctoral Dissertation Research Improvement Awards",
-            "LastName": "Li",
-            "FirstName": "Muyang",
-            "FieldofStudy": "Negotiation between State and Individuals through Social Media",
-            "Email": "mli2@albany.edu",
-            "Photo": "li-muyang",
-            "ReceivedYear": "2019",
-            "FundingAmount": "$14,831"
-        },
-        {
-            "Award": "NSF Doctoral Dissertation Research Improvement Awards",
-            "LastName": "Nunez-Cortes",
-            "FirstName": "Yajaira",
-            "FieldofStudy": "The Emergence of Social Complexity",
-            "Email": "ynunez-cortes@albany.edu",
-            "Photo": "nunez-cortes-yajaira",
-            "ReceivedYear": "2018",
-            "FundingAmount": "$25,175"
-        },
-        {
-            "Award": "NSF Doctoral Dissertation Research Improvement Awards",
-            "LastName": "Holdsworth",
-            "FirstName": "Elizabeth",
-            "FieldofStudy": "Biological and Cultural Influences on Infant Stress Response Development",
-            "Email": "eholdsworth@albany.edu",
-            "Photo": "holdsworth-elizabeth",
-            "ReceivedYear": "2017",
-            "FundingAmount": "$22,880"
-        },
-        {
-            "Award": "NSF Doctoral Dissertation Research Improvement Awards",
             "LastName": "Shteynberg",
             "FirstName": "Reveka",
             "FieldofStudy": "Rationales Underlying and Shaping Plea Decision-Making",
@@ -121,14 +111,24 @@
             "FundingAmount": "$11,399"
         },
         {
-            "Award": "NSF Doctoral Dissertation Research Improvement Awards",
-            "LastName": "Luo",
-            "FirstName": "Zhifan",
-            "FieldofStudy": "The Differential Influence of Three Types of Elites",
-            "Email": "zluo2@albany.edu",
-            "Photo": "luo-zhifan",
-            "ReceivedYear": "2020",
-            "FundingAmount": "$15,461"
+            "Award": "NSF GRFP",
+            "LastName": "Massmann",
+            "FirstName": "Adam Kimball",
+            "FieldofStudy": "Geosciences - Physical and Dynamic Meteorology",
+            "Email": "akm2203@columbia.edu",
+            "Photo": "massmann-adam-kimball",
+            "ReceivedYear": "2015",
+            "FundingAmount": "$46,000 each year"
+        },
+        {
+            "Award": "NIH F31-Pre-Doctoral Fellowship",
+            "LastName": "Wemm",
+            "FirstName": "Stephanie",
+            "FieldofStudy": "The impact of stress on steroid hormones and cue reactivity in smokers and gamblers",
+            "Email": "swemm@albany.edu",
+            "Photo": "wemm-stephanie",
+            "ReceivedYear": "2015",
+            "FundingAmount": "$45,542"
         }
     ]
 }
