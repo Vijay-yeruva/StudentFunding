@@ -29,6 +29,11 @@ request.onload = function () {
                   '             <span class="content-line"><i class="fas fa-book"></i> <strong>Field of Study: </strong>'+ awardee.FieldofStudy +'</span><br>'+
                   '             <span class="content-line"><i class="far fa-envelope"></i> <strong>Email: </strong><a class="email" href="mailto:'+ awardee.Email+'" target="_blank">'+ awardee.Email +'</a></span><br>'+
                   '         </div>'+
+                  '         <div>';
+        if( awardee.hasOwnProperty('Testimony')){
+            content += '         <i class="fas fa-comment"></i> <strong>Testimony: </strong><q class="testimony">'+ awardee.Testimony +'</q><br>';
+        }
+        content += '         </div>'+
                   '     </div>'+
                   '</div></div>'; 
     });

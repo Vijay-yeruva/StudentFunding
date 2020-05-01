@@ -78,7 +78,22 @@
     transition: all .15s ease-in-out;
 }
 
-.tile-logo-container{
+.major-award-info{
+    width: 30%;
+    margin: 0 0 30px 10%;
+}
+
+.major-award-info > .card{
+    vertical-align: middle;
+}
+
+.major-award-info > ul{
+    list-style-position: inside;
+}
+
+.major-award-info > p{
+   padding-left: 0px;
+}.tile-logo-container{
     width: 100%;
     text-align: center;
 }

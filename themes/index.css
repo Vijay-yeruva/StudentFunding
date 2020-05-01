@@ -4,7 +4,7 @@
 Primary use:    index.css file used for styling home page
 -------------------------------------------------------------------*/
 .home-logo{
-    width: 100px;
+    height:100px;
     transition: all .15s ease-in-out;
 }
 
@@ -19,7 +19,7 @@ Primary use:    index.css file used for styling home page
 }
 
 .home-logo-container:hover > .home-logo{
-    transform: scale(1.2);
+    transform: scale(1.1);
 }
 
 .home-logo-container:hover > p{

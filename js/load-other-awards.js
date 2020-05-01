@@ -13,7 +13,7 @@ request.onload = function () {
 
     //Iterating over list of agencies
     awards.forEach(function (award) {
-        content +=  '<div class="display-flex awardinfo">' +
+        content +=  '<div class="display-flex awardinfo search-container">' +
                     '<div class="col-xl-2 col-lg-3 ml-0 pl-0">';
                     if(award.hasOwnProperty('Logo')){
                         content += '<img class="award-logo" src="../assets/logos/' + award.Logo +'.png">';
