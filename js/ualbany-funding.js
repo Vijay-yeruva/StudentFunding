@@ -61,7 +61,7 @@ request.onload = function () {
             '   <p class="awarddescription"><strong>Eligibility Requirements: </strong>' + award.Eligibility + ' </p>' +
             '</div>';
         });
-        accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h3 class = "content-header-no-margin">STEM-Focused Funding Opportunities</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
+        accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h4 class = "content-header-no-margin">STEM-Focused Funding Opportunities</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
         
         nonstemawards = degreelevelawards.filter(function (award) {
             return award.STEMOnly == "N"
