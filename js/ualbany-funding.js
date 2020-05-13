@@ -88,7 +88,7 @@ request.onload = function () {
         });
         accordioncontent += '<div class = "accordion-container"><div class = "accordion-header"><h4 class = "content-header-no-margin">Non-STEM-Focused Funding Opportunities</h3></div><div class = "accordion-content">' + awardcontent + '</div></div>';
         
-        let imgpath ="../assets/images";
+        let imgpath ="assets/images";
         switch(degreelevel)
         {
             case "General":

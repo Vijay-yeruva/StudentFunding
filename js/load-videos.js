@@ -49,7 +49,7 @@ request.onload = function () {
         finalcontent = finalcontent + 
         '<div class= "videos-container">'+
         '   <div class="videos-header">'+
-        '       <div class="agency-logo"><img src="../assets/logos/'+logo +'" alt=""/></div>' +
+        '       <div class="agency-logo"><img src="assets/logos/'+logo +'" alt=""/></div>' +
         '       <div class="agency-title"><h4>'+agency+'</h4></div>'+
         '   </div>'+
         '   <div class="row videos-body">'+

@@ -16,7 +16,7 @@ request.onload = function () {
         
         content += '<div class="display-flex awardee-info">' +
                   '<div class="col-xl-2 col-lg-3 ml-0 pl-0">' +
-                  '<img class="awardee-photo" src="../assets/images/' + awardee.Photo +'.jpg"></div>'+
+                  '<img class="awardee-photo" src="assets/images/' + awardee.Photo +'.jpg"></div>'+
                   '<div class="col-xl-10 col-lg-9 p-0">' +
                   '     <h4 class="name">'+ awardee.FirstName + ' '+ awardee.LastName +'</h4>'+
                   '     <div class="award-details display-flex">'+

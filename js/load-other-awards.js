@@ -16,7 +16,7 @@ request.onload = function () {
         content +=  '<div class="display-flex awardinfo search-container">' +
                     '<div class="col-xl-2 col-lg-3 ml-0 pl-0">';
                     if(award.hasOwnProperty('Logo')){
-                        content += '<img class="award-logo" src="../assets/logos/' + award.Logo +'.png">';
+                        content += '<img class="award-logo" src="assets/logos/' + award.Logo +'.png">';
                     }
         content +=  '</div>'+
                     '<div class="col-xl-10 col-lg-9 p-0">' +
